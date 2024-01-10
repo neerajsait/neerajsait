@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neerajsait
 - 👀 I’m interested in coading,problem sloving.
 - 🌱 I’m currently learning java,ds in c.
-- 💞️ I’m looking to collaborate on c projects.
+- 💞️ I’m looking to collaborate on any projects.
 - 📫 How to reach me "neerajsai.t" is my insta id.
 
 <!---
