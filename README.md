@@ -33,9 +33,13 @@ I’m a full-stack developer with a knack for crafting robust backend systems an
 ## 🏆 Featured Projects
 Here are some projects that showcase my skills and creativity:
 
-- **[TaskMaster]** ([GitHub](https://github.com/neerajsait/taskmaster)): A full-stack task management app built with **React** and **Spring Boot**, featuring JWT authentication and real-time updates. Deployed on AWS.
-- **[E-Commerce API]** ([GitHub](https://github.com/neerajsait/ecommerce-api)): A scalable REST API using **Spring Boot** and **MySQL**, with Redis caching for performance optimization.
-- **[Portfolio Dashboard]** ([GitHub](https://github.com/neerajsait/portfolio)): A **Django** and **React** app for visualizing personal project metrics, styled with Bootstrap.
+- **[RecruiterService]** ([GitHub](https://github.com/neerajsait/RecruiterService)): It is a Java-based campus recruitment portal tailored for recruiters. It offers functionalities to manage job postings, view applications, schedule interviews, and analyze recruitment data. Built with Java-SpringBoot, JSP, HTML, CSS, and JavaScript, it streamlines campus hiring through an intuitive interface and robust backend.
+
+
+
+- **[Secure-Data]** ([GitHub](https://github.com/neerajsait/Security-High)): It  is a Flask-based application emphasizing data security. It incorporates encrypted user data storage, secure email OTPs, and plans for features like session hijacking protection and CSRF protection. The project aims to enhance user data protection through encryption and secure authentication mechanisms.
+  Built with Python-Flask, HTML, CSS, and JavaScript.
+
 
 > *Explore more on my [GitHub](https://github.com/neerajsait)!*
 
