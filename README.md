@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Neeraj+Venkata+Sai+Tiruveedhi;FullStack+Developer+%7C+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Neeraj+Venkata+Sai+Tiruveedhi;FullStack+Developer+%7C" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Welcome to My Tech Universe 🚀</h1>
