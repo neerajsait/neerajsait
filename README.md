@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Neeraj+Venkata+Sai+Tiruveedhi;FullStack+Developer+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Neeraj+Venkata+Sai+Tiruveedhi;Full-Stack+Developer+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Welcome to My Tech Universe 🚀</h1>
@@ -43,13 +43,14 @@ Here are some projects that showcase my skills and creativity:
 
 ## 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neerajsait&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api?username=neerajsait&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="GitHub Stats" width="400" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neerajsait&show_icons=true&theme=dracula&hide_border=true&layout=compact&locale=en" alt="Top Languages" width="300" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neerajsait&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=neerajsait&theme=dracula&hide_border=true" alt="GitHub Streak" width="400" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neerajsait&theme=dark" alt="GitHub Streak" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=neerajsait&repo=tasktracker&theme=dracula&hide_border=true" alt="Pinned Repo" width="400" />
 </p>
 ---
 
