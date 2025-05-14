@@ -49,7 +49,9 @@ Here are some projects that showcase my skills and creativity:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=neerajsait&theme=dracula&hide_border=true" alt="GitHub Streak" width="400" />
 </p>
-
+<p align="center">
+  ![](https://nirzak-streak-stats.vercel.app/?user=neerajsait&theme=dark&hide_border=false)<br/>
+</p>
 ---
 
 ## 🤝 Connect with Me
