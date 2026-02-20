@@ -49,45 +49,17 @@
 ### 🎯 What I Bring to the Table
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900" />
-
-</div>
-
 <br/>
 
-<h4><img src="https://img.shields.io/badge/⚡-BACKEND-2ea043?style=flat-square" />&nbsp;&nbsp;</h4>
+| 💻 Languages | ⚙️ Frameworks & Libraries |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=java,js,python,c,html,css&theme=dark" /> | <img src="https://skillicons.dev/icons?i=spring,react,django,flask,bootstrap,npm&theme=dark" /> |
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+| ☁️ Cloud & DevOps | 🗄️ Databases & Tools |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,netlify,linux&theme=dark" /> | <img src="https://skillicons.dev/icons?i=mysql,redis,git,github,figma,vscode&theme=dark" /> |
 
-<h4><img src="https://img.shields.io/badge/🎨-FRONTEND-58a6ff?style=flat-square" />&nbsp;&nbsp;</h4>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-<h4><img src="https://img.shields.io/badge/☁️-CLOUD%20%26%20DEVOPS-f78166?style=flat-square" />&nbsp;&nbsp;</h4>
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-<h4><img src="https://img.shields.io/badge/🗄️-DATABASES%20%26%20TOOLS-bc8cff?style=flat-square" />&nbsp;&nbsp;</h4>
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+</div>
 
 <br/>
 
@@ -220,23 +192,19 @@ My personal developer portfolio — clean design showcasing my work, skills, and
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=neerajsait&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=neerajsait&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-<!-- ━━━━━━━━━ SNAKE ━━━━━━━━━ -->
+<!-- ━━━━━━━━━ CONTRIBUTION GRAPH ━━━━━━━━━ -->
+
+### 🐍 Contribution Graph
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neerajsait/neerajsait/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neerajsait/neerajsait/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/neerajsait/neerajsait/output/github-snake-dark.svg" />
-</picture>
-
-*Set up [Platane/snk](https://github.com/Platane/snk) action to enable ↑*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=neerajsait&bg_color=0d1117&color=4EC9B0&line=2ea043&point=ffffff&area=true&area_color=238636&hide_border=true&radius=16&custom_title=My%20Contribution%20Graph" width="95%" />
 
 </div>
 
