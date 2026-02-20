@@ -36,17 +36,9 @@
 
 ### 🧑‍💻 Quick Intro
 
-```json
-{
-  "🎓 education"    : "KL University, Vijayawada",
-  "🏗️ speciality"   : "Spring Boot + React Full-Stack Apps",
-  "🔒 passion"      : "Application Security — encryption, auth, defense",
-  "⚡ learning"     : "Microservices Architecture",
-  "💬 ask_me_about" : "Java, REST APIs, Cloud Deployments",
-  "🎧 fun_fact"     : "Lo-fi + coding = flow state",
-  "📬 contact"      : "tneerajvenkatasai@gmail.com"
-}
-```
+<div align="center">
+<img src="./intro-card.svg" width="100%" />
+</div>
 
 ---
 
