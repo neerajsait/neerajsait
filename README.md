@@ -4,7 +4,7 @@
 
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,2,5,6&height=160&section=header&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,6&height=150&section=header&text=Neeraj%20Venkata%20Sai&fontSize=40&fontColor=ffffff&fontAlignY=50&desc=Full-Stack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20React%20%E2%80%A2%20Cloud&descSize=16&descAlignY=70&descColor=cccccc&animation=fadeIn" width="100%" />
 
 <br/>
 
@@ -48,32 +48,51 @@
 
 <br/>
 
+<table>
+<tr>
+<td align="center" width="25%">
+
+**⚡ Backend**
+
+<img src="https://skillicons.dev/icons?i=spring,java,django,flask&perline=2&theme=dark" />
+
+<sub>Spring Boot · Django · Flask · REST APIs</sub>
+
+</td>
+<td align="center" width="25%">
+
+**🎨 Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css&perline=2&theme=dark" />
+
+<sub>React · JavaScript · HTML5 · CSS3</sub>
+
+</td>
+<td align="center" width="25%">
+
+**☁️ Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel&perline=2&theme=dark" />
+
+<sub>AWS · GCP · Docker · Vercel</sub>
+
+</td>
+<td align="center" width="25%">
+
+**�️ Data & Tools**
+
+<img src="https://skillicons.dev/icons?i=mysql,redis,git,vscode&perline=2&theme=dark" />
+
+<sub>MySQL · Redis · Git · VS Code</sub>
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                            ║
-║   🔹 BACKEND          Spring Boot  ·  Django  ·  Flask  ·  REST APIs       ║
-║                                                                            ║
-║   🔹 FRONTEND         React  ·  HTML5  ·  CSS3  ·  Bootstrap  ·  JS       ║
-║                                                                            ║
-║   🔹 DATABASES        MySQL  ·  Redis                                      ║
-║                                                                            ║
-║   🔹 CLOUD            AWS  ·  Google Cloud  ·  Docker  ·  Vercel           ║
-║                                                                            ║
-║   🔹 SECURITY         AES Encryption  ·  OTP Auth  ·  RBAC  ·  CSRF       ║
-║                                                                            ║
-║   🔹 LANGUAGES        Java  ·  JavaScript  ·  Python  ·  C                ║
-║                                                                            ║
-║   🔹 TOOLS            Git  ·  GitHub  ·  VS Code  ·  Figma  ·  npm        ║
-║                                                                            ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+**Languages I speak:** &nbsp; ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-</div>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,python,django,flask,html,css,aws,gcp,docker,mysql,redis,git,github,vscode,figma&perline=9&theme=dark" />
 </div>
 
 <br/>
@@ -233,23 +252,34 @@ My personal developer portfolio — clean design showcasing my work, skills, and
 
 <div align="center">
 
-<br/>
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 
-<br/><br/>
+<br/>
 
-**🤝 Open to opportunities, collaborations, and building impactful software.**
-
-**If my work resonates with you — let's talk.**
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
 
 <br/>
 
-<a href="mailto:tneerajvenkatasai@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-f0883e?style=for-the-badge&logoColor=white" /></a> &nbsp;
-<a href="https://www.linkedin.com/in/neerajsait/"><img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logoColor=white" /></a>
+### ✨ *"Great software is built by people who care."*
+
+🤝 **Open to opportunities, collaborations, and building impactful software.**
+
+<br/>
+
+<a href="mailto:tneerajvenkatasai@gmail.com"><img src="https://img.shields.io/badge/Email-tneerajvenkatasai@gmail.com-f0883e?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<br/>
+<a href="https://www.linkedin.com/in/neerajsait/"><img src="https://img.shields.io/badge/LinkedIn-neerajsait-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="https://github.com/neerajsait"><img src="https://img.shields.io/badge/GitHub-neerajsait-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+&nbsp;
+<a href="https://www.instagram.com/neerajsai.t"><img src="https://img.shields.io/badge/Instagram-neerajsai.t-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,2,5,6&height=80&section=footer&reversal=true" width="100%" />
+⭐ **If you like what you see, consider starring a repo — it means a lot!**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,6&height=120&section=footer&animation=twinkling" width="100%" />
 
 </div>
