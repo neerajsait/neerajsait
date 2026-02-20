@@ -210,27 +210,11 @@ My personal developer portfolio — clean design showcasing my work, skills, and
 
 <!-- ━━━━━━━━━ TROPHIES ━━━━━━━━━ -->
 
-### 🏅 Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=neerajsait&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
 <!-- ━━━━━━━━━ CONTRIBUTION GRAPH ━━━━━━━━━ -->
 
-### 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neerajsait&bg_color=0d1117&color=4EC9B0&line=2ea043&point=ffffff&area=true&area_color=238636&hide_border=true&radius=16&custom_title=My%20Contribution%20Graph" width="95%" />
-
-</div>
-
----
 
 <!-- ━━━━━━━━━ FOOTER ━━━━━━━━━ -->
 
