@@ -36,9 +36,33 @@
 
 ### 🧑‍💻 Quick Intro
 
-<div align="center">
-<img src="./intro-card.svg" width="100%" />
-</div>
+> ```
+> ███╗   ██╗███████╗███████╗██████╗  █████╗      ██╗
+> ████╗  ██║██╔════╝██╔════╝██╔══██╗██╔══██╗     ██║
+> ██╔██╗ ██║█████╗  █████╗  ██████╔╝███████║     ██║
+> ██║╚██╗██║██╔══╝  ██╔══╝  ██╔══██╗██╔══██║██   ██║
+> ██║ ╚████║███████╗███████╗██║  ██║██║  ██║╚█████╔╝
+> ╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝
+> ```
+>
+> ⠀
+> **`[SYSTEM]`** Booting developer profile...
+>
+> **`[✔ LOADED]`** &nbsp; 🎓 &nbsp; **KL University**, Vijayawada — Engineering
+>
+> **`[✔ LOADED]`** &nbsp; 🏗️ &nbsp; Core Stack → **Spring Boot** + **React**
+>
+> **`[✔ LOADED]`** &nbsp; 🔒 &nbsp; Passion → **Application Security** — encryption, auth, defense
+>
+> **`[✔ LOADED]`** &nbsp; ⚡ &nbsp; Currently Learning → **Microservices Architecture**
+>
+> **`[✔ LOADED]`** &nbsp; 💬 &nbsp; Ask Me About → **Java, REST APIs, Cloud Deployments**
+>
+> **`[✔ LOADED]`** &nbsp; 🎧 &nbsp; Fun Fact → Lo-fi + coding = flow state
+>
+> **`[✔ LOADED]`** &nbsp; 📬 &nbsp; Contact → **tneerajvenkatasai@gmail.com**
+>
+> **`[SYSTEM]`** All modules loaded. Ready to collaborate. `█`
 
 ---
 
