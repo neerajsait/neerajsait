@@ -28,7 +28,11 @@
 
 <!-- ━━━━━━━━━ ABOUT ━━━━━━━━━ -->
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="350" />
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+</div>
+
+<br/>
 
 ### 🧑‍💻 Quick Intro
 
@@ -39,8 +43,6 @@
 - 💬 &nbsp;Ask me about **Java, REST APIs, Cloud deployments**
 - 🎧 &nbsp;Lo-fi + coding = flow state
 - 📬 &nbsp;Reach me at **[tneerajvenkatasai@gmail.com](mailto:tneerajvenkatasai@gmail.com)**
-
-<br clear="right"/>
 
 ---
 
