@@ -36,13 +36,17 @@
 
 ### 🧑‍💻 Quick Intro
 
-- 🎓 &nbsp;Engineering student at **KL University, Vijayawada**
-- 🏗️ &nbsp;I build full-stack apps with **Spring Boot** + **React**
-- 🔒 &nbsp;Big on **application security** — encryption, auth, defense
-- ⚡ &nbsp;Currently mastering **Microservices** architecture
-- 💬 &nbsp;Ask me about **Java, REST APIs, Cloud deployments**
-- 🎧 &nbsp;Lo-fi + coding = flow state
-- 📬 &nbsp;Reach me at **[tneerajvenkatasai@gmail.com](mailto:tneerajvenkatasai@gmail.com)**
+```json
+{
+  "🎓 education"    : "KL University, Vijayawada",
+  "🏗️ speciality"   : "Spring Boot + React Full-Stack Apps",
+  "🔒 passion"      : "Application Security — encryption, auth, defense",
+  "⚡ learning"     : "Microservices Architecture",
+  "💬 ask_me_about" : "Java, REST APIs, Cloud Deployments",
+  "🎧 fun_fact"     : "Lo-fi + coding = flow state",
+  "📬 contact"      : "tneerajvenkatasai@gmail.com"
+}
+```
 
 ---
 
