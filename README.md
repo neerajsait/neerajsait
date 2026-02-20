@@ -51,13 +51,13 @@
 <div align="center">
 <br/>
 
-| 💻 Languages | ⚙️ Frameworks & Libraries |
-|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=java,js,python,c,html,css&theme=dark" /> | <img src="https://skillicons.dev/icons?i=spring,react,django,flask,bootstrap,npm&theme=dark" /> |
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,python,django,flask,html,css&perline=9&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,mysql,redis,git,github,vscode,figma&perline=9&theme=dark" />
 
-| ☁️ Cloud & DevOps | 🗄️ Databases & Tools |
-|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,netlify,linux&theme=dark" /> | <img src="https://skillicons.dev/icons?i=mysql,redis,git,github,figma,vscode&theme=dark" /> |
+<br/>
+
+`Java` `Spring Boot` `React` `JavaScript` `Python` `Django` `Flask` `AWS` `GCP` `Docker` `MySQL` `Redis` `Git`
 
 </div>
 
