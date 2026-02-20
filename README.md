@@ -1,189 +1,255 @@
-<div align="center">
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--    NEERAJ VENKATA SAI — GITHUB PROFILE    -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<!-- HEADER -->
-<a href="https://github.com/neerajsait">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+Hello+World!+%F0%9F%91%8B;I'm+Neeraj+Venkata+Sai" alt="Header" />
-</a>
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,2,5,6&height=160&section=header&animation=fadeIn" width="100%" />
 
 <br/>
 
-<samp><b>A full-stack developer who turns caffeine into code and ideas into products</b></samp>
+# Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Neeraj
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=F0883E&center=true&vCenter=true&repeat=true&width=550&lines=Full-Stack+Developer+%7C+Java+%2B+React+Specialist;Building+Secure+%26+Scalable+Web+Applications;KL+University+%7C+Engineering+%7C+Vijayawada" alt="Typing SVG" />
 
-<!-- QUICK LINKS -->
-<kbd>[<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://www.linkedin.com/in/neerajsait/)</kbd>
-<kbd>[<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail" />](mailto:tneerajvenkatasai@gmail.com)</kbd>
-<kbd>[<img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram" />](https://www.instagram.com/neerajsai.t)</kbd>
-<kbd>[<img src="https://komarev.com/ghpvc/?username=neerajsait&style=flat&color=58a6ff&label=Visitors" alt="visitors" />](https://github.com/neerajsait)</kbd>
+<br/>
+
+<a href="https://www.linkedin.com/in/neerajsait/"><img src="https://img.shields.io/badge/neerajsait-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;
+<a href="mailto:tneerajvenkatasai@gmail.com"><img src="https://img.shields.io/badge/tneerajvenkatasai-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a> &nbsp;
+<a href="https://github.com/neerajsait"><img src="https://img.shields.io/badge/neerajsait-100000?style=flat&logo=github&logoColor=white" alt="GitHub"/></a> &nbsp;
+<a href="https://www.instagram.com/neerajsai.t"><img src="https://img.shields.io/badge/neerajsai.t-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a> &nbsp;
+<img src="https://komarev.com/ghpvc/?username=neerajsait&style=flat&color=f0883e" alt="Profile views"/>
 
 </div>
 
 <br/>
 
-## <samp>&gt; cat about_me.txt</samp>
+<!-- ━━━━━━━━━ ABOUT ━━━━━━━━━ -->
 
-```python
-class Neeraj:
-    
-    def __init__(self):
-        self.name = "Neeraj Venkata Sai"
-        self.role = "Full-Stack Developer"
-        self.university = "KL University"
-        self.location = "Vijayawada, India 🇮🇳"
-    
-    def get_skills(self):
-        return {
-            "languages"  : ["Java", "JavaScript", "Python", "C"],
-            "frontend"   : ["React", "HTML5", "CSS3", "Bootstrap"],
-            "backend"    : ["Spring Boot", "Django", "Flask"],
-            "cloud"      : ["AWS", "Google Cloud", "Docker"],
-            "databases"  : ["MySQL", "Redis"],
-            "tools"      : ["Git", "VS Code", "Figma"]
-        }
-    
-    def get_current_status(self):
-        return {
-            "🔨 building"  : "React + Spring Boot Task Manager",
-            "📚 learning"  : "Microservices & Advanced React Patterns",
-            "🎯 goal"      : "Build secure, scalable production systems",
-            "🎵 vibes"     : "Lo-fi beats while debugging",
-            "☕ fuel"       : "Chai, always"
-        }
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="350" />
 
-me = Neeraj()
+### 🧑‍💻 Quick Intro
+
+- 🎓 &nbsp;Engineering student at **KL University, Vijayawada**
+- 🏗️ &nbsp;I build full-stack apps with **Spring Boot** + **React**
+- 🔒 &nbsp;Big on **application security** — encryption, auth, defense
+- ⚡ &nbsp;Currently mastering **Microservices** architecture
+- 💬 &nbsp;Ask me about **Java, REST APIs, Cloud deployments**
+- 🎧 &nbsp;Lo-fi + coding = flow state
+- 📬 &nbsp;Reach me at **[tneerajvenkatasai@gmail.com](mailto:tneerajvenkatasai@gmail.com)**
+
+<br clear="right"/>
+
+---
+
+<!-- ━━━━━━━━━ WHAT I BRING TO THE TABLE ━━━━━━━━━ -->
+
+### 🎯 What I Bring to the Table
+
+<br/>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║   🔹 BACKEND          Spring Boot  ·  Django  ·  Flask  ·  REST APIs       ║
+║                                                                            ║
+║   🔹 FRONTEND         React  ·  HTML5  ·  CSS3  ·  Bootstrap  ·  JS       ║
+║                                                                            ║
+║   🔹 DATABASES        MySQL  ·  Redis                                      ║
+║                                                                            ║
+║   🔹 CLOUD            AWS  ·  Google Cloud  ·  Docker  ·  Vercel           ║
+║                                                                            ║
+║   🔹 SECURITY         AES Encryption  ·  OTP Auth  ·  RBAC  ·  CSRF       ║
+║                                                                            ║
+║   🔹 LANGUAGES        Java  ·  JavaScript  ·  Python  ·  C                ║
+║                                                                            ║
+║   🔹 TOOLS            Git  ·  GitHub  ·  VS Code  ·  Figma  ·  npm        ║
+║                                                                            ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
+</div>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,python,django,flask,html,css,aws,gcp,docker,mysql,redis,git,github,vscode,figma&perline=9&theme=dark" />
+</div>
+
 <br/>
 
 ---
 
-## <samp>&gt; ls skills/</samp>
+<!-- ━━━━━━━━━ PROJECTS ━━━━━━━━━ -->
+
+### 🏆 Projects That Define Me
+
+> *I don't just write code — I build solutions that solve real problems.*
+
+<br/>
+
+<div align="center">
 
 <table>
-<tr><td valign="top" width="33%">
+<tr>
+<td width="50%" valign="top">
 
-#### 🎨 Frontend
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,js&perline=3" />
-</div>
+**🏛️ [RecruiterService](https://github.com/neerajsait/RecruiterService)**
 
-</td><td valign="top" width="33%">
+A complete campus recruitment system where companies can post jobs, track applicants, and schedule interviews — designed to streamline the entire hiring workflow.
 
-#### ⚡ Backend
-<div align="center">
-<img src="https://skillicons.dev/icons?i=spring,java,django,flask,python&perline=3" />
-</div>
+| Feature | Status |
+|:--------|:------:|
+| Role-based admin & recruiter access | ✅ |
+| Real-time application dashboard | ✅ |
+| Calendar-integrated scheduling | ✅ |
 
-</td><td valign="top" width="33%">
+`Spring Boot` `JSP` `MySQL` `JavaScript`
 
-#### ☁️ Cloud & DB
-<div align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,mysql,redis&perline=3" />
-</div>
+</td>
+<td width="50%" valign="top">
 
-</td></tr>
-<tr><td colspan="3" align="center">
+**🔐 [Security-High](https://github.com/neerajsait/Security-High)**
 
-#### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify&perline=6" />
+A security-first Flask application proving that user data protection can be the core product — not just a checkbox.
 
-</td></tr>
+| Feature | Status |
+|:--------|:------:|
+| AES-256 encrypted data storage | ✅ |
+| OTP-based email verification | ✅ |
+| CSRF & session hijack defense | 🔜 |
+
+`Python` `Flask` `Cryptography`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🖥️ [Network-Monitor](https://github.com/neerajsait/Network-Monitor)**
+
+Real-time network monitoring with visual dashboards to track connectivity, latency, and performance metrics.
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+**🧠 [Face-Recognition](https://github.com/neerajsait/Face-Recognition)**
+
+JavaScript-based facial detection and identification system using ML libraries for real-time face recognition.
+
+`JavaScript` `ML`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📋 [sdpproject](https://github.com/neerajsait/sdpproject)**
+
+Full-stack Java application built as a Software Development Project — end-to-end development lifecycle.
+
+`Java`
+
+</td>
+<td width="50%" valign="top">
+
+**🌐 [Portfolio](https://github.com/neerajsait/portfolio)**
+
+My personal developer portfolio — clean design showcasing my work, skills, and journey.
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
 </table>
 
----
-
-## <samp>&gt; ls projects/ --featured</samp>
-
-<div align="center">
-
-| 🏛️ Project | 📝 Description | 🔧 Stack |
-|:-----------|:--------------|:---------|
-| **[RecruiterService](https://github.com/neerajsait/RecruiterService)** | Campus recruitment portal with RBAC, application tracking & interview scheduling | `Spring Boot` `MySQL` `JSP` |
-| **[Security-High](https://github.com/neerajsait/Security-High)** | Secure data app with AES encryption, OTP auth & vulnerability defense | `Flask` `Python` `AES` |
-| **[Network-Monitor](https://github.com/neerajsait/Network-Monitor)** | Real-time network connectivity & performance monitoring dashboard | `HTML` `CSS` `JavaScript` |
-| **[Face-Recognition](https://github.com/neerajsait/Face-Recognition)** | JS-powered face detection and real-time identification system | `JavaScript` |
-| **[sdpproject](https://github.com/neerajsait/sdpproject)** | Software Development Project — full-stack Java application | `Java` |
-| **[portfolio](https://github.com/neerajsait/portfolio)** | My personal developer portfolio website | `HTML` `CSS` `JS` |
-
 </div>
 
-<details>
-<summary><b>🔍 Project Deep Dives</b></summary>
+<div align="center">
 <br/>
-
-> #### 🏛️ RecruiterService
-> *Campus hiring, made simple.*
->
-> A full-featured recruitment portal where recruiters can manage job postings, review applicant profiles, and schedule interviews — all in one dashboard.
-> - ✅ Role-based access for admins & recruiters
-> - ✅ Real-time application tracking
-> - ✅ Calendar-integrated interview scheduling
->
-> ---
->
-> #### 🔐 Security-High
-> *Because security shouldn't be an afterthought.*
->
-> A Flask app where user data protection IS the product. Built with encryption-first mindset.
-> - ✅ AES-encrypted data storage
-> - ✅ Secure OTP email verification
-> - 🔜 Session hijacking & CSRF protection
-
-</details>
+<a href="https://github.com/neerajsait?tab=repositories">
+<img src="https://img.shields.io/badge/🔍%20View%20All%20Repositories-2b3137?style=for-the-badge" />
+</a>
+</div>
 
 ---
 
-## <samp>&gt; neofetch</samp>
+<!-- ━━━━━━━━━ STATS ━━━━━━━━━ -->
+
+### 📈 GitHub Metrics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=neerajsait&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=neerajsait&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=546577&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=neerajsait&show_icons=true&hide_border=true&border_radius=15&count_private=true&bg_color=161b22&title_color=f0883e&icon_color=f0883e&text_color=c9d1d9" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=neerajsait&hide_border=true&border_radius=15&background=161b22&ring=f0883e&fire=f78166&currStreakLabel=f0883e&sideLabels=c9d1d9&dates=546577&currStreakNum=c9d1d9&sideNums=c9d1d9" />
 
-</div>
-
-<div align="center">
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajsait&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neerajsait&bg_color=00000000&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" width="95%"/>
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajsait&layout=donut&hide_border=true&border_radius=15&bg_color=161b22&title_color=f0883e&text_color=c9d1d9&langs_count=6" />
 </div>
-
----
-
-## <samp>&gt; cat achievements.log</samp>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=neerajsait&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
-## <samp>&gt; echo "Let's connect!"</samp>
 
 <br/>
 
-<samp>I'm always open to collaborating on interesting projects, discussing tech, or just having a good chat over chai ☕</samp>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=neerajsait&bg_color=161b22&color=f0883e&line=f78166&point=ffffff&area=true&area_color=f0883e30&hide_border=true&radius=16" width="95%"/>
+</div>
+
+---
+
+<!-- ━━━━━━━━━ TROPHIES ━━━━━━━━━ -->
+
+### 🏅 Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=neerajsait&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<!-- ━━━━━━━━━ SNAKE ━━━━━━━━━ -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neerajsait/neerajsait/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neerajsait/neerajsait/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/neerajsait/neerajsait/output/github-snake-dark.svg" />
+</picture>
+
+*Set up [Platane/snk](https://github.com/Platane/snk) action to enable ↑*
+
+</div>
+
+---
+
+<!-- ━━━━━━━━━ FOOTER ━━━━━━━━━ -->
+
+<div align="center">
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 
 <br/><br/>
 
-<a href="mailto:tneerajvenkatasai@gmail.com"><img src="https://img.shields.io/badge/-Send%20me%20a%20mail-58a6ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/neerajsait/"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-58a6ff?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+**🤝 Open to opportunities, collaborations, and building impactful software.**
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=header" width="100%" />
+**If my work resonates with you — let's talk.**
 
 <br/>
 
-<samp><b>⭐ From <a href="https://github.com/neerajsait">neerajsait</a> — If you liked anything, drop a star!</b></samp>
+<a href="mailto:tneerajvenkatasai@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-f0883e?style=for-the-badge&logoColor=white" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/neerajsait/"><img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,2,5,6&height=80&section=footer&reversal=true" width="100%" />
 
 </div>
