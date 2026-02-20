@@ -12,7 +12,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=4EC9B0&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%91%8B+Hey%2C+I'm+Neeraj!;%E2%98%95+Java+%2B+React+%2B+Cloud;%F0%9F%94%92+Security+Enthusiast;%F0%9F%9A%80+Let's+Build+Something+Great!)](https://github.com/neerajsait)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=4EC9B0&center=true&vCenter=true&repeat=true&width=650&lines=%F0%9F%91%8B+Hey%2C+I'm+Neeraj!;%E2%98%95+Java+%7C+Spring+Boot+%7C+React;%F0%9F%94%92+Security+Enthusiast;%F0%9F%9A%80+Building+Production-Grade+Java+APIs;%E2%98%81%EF%B8%8F+Deploying+on+AWS+%26+Google+Cloud)](https://github.com/neerajsait)
 
 <br/>
 
