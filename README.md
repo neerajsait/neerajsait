@@ -4,21 +4,23 @@
 
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,6&height=150&section=header&text=Neeraj%20Venkata%20Sai&fontSize=40&fontColor=ffffff&fontAlignY=50&desc=Full-Stack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20React%20%E2%80%A2%20Cloud&descSize=16&descAlignY=70&descColor=cccccc&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27,29,33&height=200&section=header&text=NEERAJ%20VENKATA%20SAI&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=%E2%9A%A1%20Full-Stack%20Developer%20%E2%80%A2%20Building%20Secure%20%26%20Scalable%20Systems&descSize=15&descAlignY=55&descColor=88eecc&animation=twinkling&rotate=13" width="100%" />
 
 <br/>
 
-# Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Neeraj
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=F0883E&center=true&vCenter=true&repeat=true&width=550&lines=Full-Stack+Developer+%7C+Java+%2B+React+Specialist;Building+Secure+%26+Scalable+Web+Applications;KL+University+%7C+Engineering+%7C+Vijayawada" alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/neerajsait/"><img src="https://img.shields.io/badge/neerajsait-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;
-<a href="mailto:tneerajvenkatasai@gmail.com"><img src="https://img.shields.io/badge/tneerajvenkatasai-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a> &nbsp;
-<a href="https://github.com/neerajsait"><img src="https://img.shields.io/badge/neerajsait-100000?style=flat&logo=github&logoColor=white" alt="GitHub"/></a> &nbsp;
-<a href="https://www.instagram.com/neerajsai.t"><img src="https://img.shields.io/badge/neerajsai.t-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a> &nbsp;
-<img src="https://komarev.com/ghpvc/?username=neerajsait&style=flat&color=f0883e" alt="Profile views"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=4EC9B0&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%91%8B+Hey%2C+I'm+Neeraj!;%E2%98%95+Java+%2B+React+%2B+Cloud;%F0%9F%94%92+Security+Enthusiast;%F0%9F%9A%80+Let's+Build+Something+Great!)](https://github.com/neerajsait)
+
+<br/>
+
+<a href="https://www.linkedin.com/in/neerajsait/"><img src="https://img.shields.io/badge/-neerajsait-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:tneerajvenkatasai@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/neerajsait"><img src="https://img.shields.io/badge/-neerajsait-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.instagram.com/neerajsai.t"><img src="https://img.shields.io/badge/-neerajsai.t-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=neerajsait&style=for-the-badge&color=2ea043&label=VISITORS" />
 
 </div>
 
@@ -46,54 +48,46 @@
 
 ### 🎯 What I Bring to the Table
 
-<br/>
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**⚡ Backend**
-
-<img src="https://skillicons.dev/icons?i=spring,java,django,flask&perline=2&theme=dark" />
-
-<sub>Spring Boot · Django · Flask · REST APIs</sub>
-
-</td>
-<td align="center" width="25%">
-
-**🎨 Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css&perline=2&theme=dark" />
-
-<sub>React · JavaScript · HTML5 · CSS3</sub>
-
-</td>
-<td align="center" width="25%">
-
-**☁️ Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel&perline=2&theme=dark" />
-
-<sub>AWS · GCP · Docker · Vercel</sub>
-
-</td>
-<td align="center" width="25%">
-
-**�️ Data & Tools**
-
-<img src="https://skillicons.dev/icons?i=mysql,redis,git,vscode&perline=2&theme=dark" />
-
-<sub>MySQL · Redis · Git · VS Code</sub>
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 
-**Languages I speak:** &nbsp; ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900" />
 
 </div>
+
+<br/>
+
+<h4><img src="https://img.shields.io/badge/⚡-BACKEND-2ea043?style=flat-square" />&nbsp;&nbsp;</h4>
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+<h4><img src="https://img.shields.io/badge/🎨-FRONTEND-58a6ff?style=flat-square" />&nbsp;&nbsp;</h4>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<h4><img src="https://img.shields.io/badge/☁️-CLOUD%20%26%20DEVOPS-f78166?style=flat-square" />&nbsp;&nbsp;</h4>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+<h4><img src="https://img.shields.io/badge/🗄️-DATABASES%20%26%20TOOLS-bc8cff?style=flat-square" />&nbsp;&nbsp;</h4>
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 <br/>
 
@@ -252,34 +246,32 @@ My personal developer portfolio — clean design showcasing my work, skills, and
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468b5596.gif" width="250" />
+
+<br/>
+
+## 🤝 Let's Build Something Amazing Together
+
+<samp>I'm always looking for opportunities to collaborate on innovative projects.<br/>If you're working on something exciting — let's connect!</samp>
+
+<br/>
+
+<a href="mailto:tneerajvenkatasai@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-tneerajvenkatasai%40gmail.com-2ea043?style=for-the-badge" /></a>
+
+<a href="https://www.linkedin.com/in/neerajsait/"><img src="https://img.shields.io/badge/💼%20LinkedIn-neerajsait-0A66C2?style=for-the-badge" /></a>&nbsp;
+<a href="https://github.com/neerajsait"><img src="https://img.shields.io/badge/🔗%20GitHub-neerajsait-181717?style=for-the-badge" /></a>&nbsp;
+<a href="https://www.instagram.com/neerajsai.t"><img src="https://img.shields.io/badge/📸%20Instagram-neerajsai.t-E4405F?style=for-the-badge" /></a>
+
+<br/><br/>
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
+⭐ **If my work inspires you, a star would make my day!**
 
 <br/>
 
-### ✨ *"Great software is built by people who care."*
-
-🤝 **Open to opportunities, collaborations, and building impactful software.**
-
-<br/>
-
-<a href="mailto:tneerajvenkatasai@gmail.com"><img src="https://img.shields.io/badge/Email-tneerajvenkatasai@gmail.com-f0883e?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<br/>
-<a href="https://www.linkedin.com/in/neerajsait/"><img src="https://img.shields.io/badge/LinkedIn-neerajsait-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-&nbsp;
-<a href="https://github.com/neerajsait"><img src="https://img.shields.io/badge/GitHub-neerajsait-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-&nbsp;
-<a href="https://www.instagram.com/neerajsai.t"><img src="https://img.shields.io/badge/Instagram-neerajsai.t-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-
-<br/><br/>
-
-⭐ **If you like what you see, consider starring a repo — it means a lot!**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,6&height=120&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=27,29,33&height=100&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=24&fontColor=4EC9B0&animation=fadeIn" width="100%" />
 
 </div>
