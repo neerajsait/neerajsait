@@ -48,7 +48,7 @@
 > ⠀
 > **`[SYSTEM]`** Booting developer profile...
 >
-> **`[✔ LOADED]`** &nbsp; 🎓 &nbsp; **KL University**, Vijayawada — Engineering
+> **`[✔ LOADED]`** &nbsp; 🎓 &nbsp; **KL University**, Vijayawada — B.Tech Computer Science Engineering
 >
 > **`[✔ LOADED]`** &nbsp; 🏗️ &nbsp; Core Stack → **Spring Boot** + **React**
 >
@@ -60,7 +60,7 @@
 >
 > **`[✔ LOADED]`** &nbsp; 🎧 &nbsp; Fun Fact → Lo-fi + coding = flow state
 >
-> **`[✔ LOADED]`** &nbsp; 📬 &nbsp; Contact → **tneerajvenkatasai@gmail.com**
+> **`[✔ LOADED]`** &nbsp; 📬 &nbsp; Contact → **[tneerajvenkatasai@gmail.com](mailto:tneerajvenkatasai@gmail.com)**
 >
 > **`[SYSTEM]`** All modules loaded. Ready to collaborate. `█`
 
@@ -118,13 +118,13 @@ A complete campus recruitment system where companies can post jobs, track applic
 
 **🔐 [Security-High](https://github.com/neerajsait/Security-High)**
 
-A security-first Flask application proving that user data protection can be the core product — not just a checkbox.
+A security-first Flask application proving that user data protection can be the core product — not just a checkbox. Built with strong encryption and multi-layer authentication.
 
 | Feature | Status |
 |:--------|:------:|
 | AES-256 encrypted data storage | ✅ |
 | OTP-based email verification | ✅ |
-| CSRF & session hijack defense | 🔜 |
+| Secure session management | ✅ |
 
 `Python` `Flask` `Cryptography`
 
@@ -135,7 +135,7 @@ A security-first Flask application proving that user data protection can be the 
 
 **🖥️ [Network-Monitor](https://github.com/neerajsait/Network-Monitor)**
 
-Real-time network monitoring with visual dashboards to track connectivity, latency, and performance metrics.
+Real-time network monitoring with visual dashboards to track connectivity, latency, and performance metrics across your infrastructure.
 
 `HTML` `CSS` `JavaScript`
 
@@ -144,9 +144,9 @@ Real-time network monitoring with visual dashboards to track connectivity, laten
 
 **🧠 [Face-Recognition](https://github.com/neerajsait/Face-Recognition)**
 
-JavaScript-based facial detection and identification system using ML libraries for real-time face recognition.
+JavaScript-based facial detection and identification system using ML libraries for real-time face recognition directly in the browser.
 
-`JavaScript` `ML`
+`JavaScript` `ML` `face-api.js`
 
 </td>
 </tr>
@@ -155,16 +155,16 @@ JavaScript-based facial detection and identification system using ML libraries f
 
 **📋 [sdpproject](https://github.com/neerajsait/sdpproject)**
 
-Full-stack Java application built as a Software Development Project — end-to-end development lifecycle.
+Full-stack Java web application built through the complete Software Development Project lifecycle — from design to deployment.
 
-`Java`
+`Java` `JSP` `MySQL`
 
 </td>
 <td width="50%" valign="top">
 
 **🌐 [Portfolio](https://github.com/neerajsait/portfolio)**
 
-My personal developer portfolio — clean design showcasing my work, skills, and journey.
+My personal developer portfolio — clean, responsive design showcasing my projects, skills, and journey as a full-stack developer.
 
 `HTML` `CSS` `JavaScript`
 
@@ -207,14 +207,6 @@ My personal developer portfolio — clean design showcasing my work, skills, and
 </div>
 
 ---
-
-<!-- ━━━━━━━━━ TROPHIES ━━━━━━━━━ -->
-
-
----
-
-<!-- ━━━━━━━━━ CONTRIBUTION GRAPH ━━━━━━━━━ -->
-
 
 <!-- ━━━━━━━━━ FOOTER ━━━━━━━━━ -->
 
