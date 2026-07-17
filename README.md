@@ -3,7 +3,7 @@
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
-  
+
 <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27,29,33&height=200&section=header&text=NEERAJ%20VENKATA%20SAI&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=%E2%9A%A1%20Full-Stack%20Developer%20%E2%80%A2%20Building%20Secure%20%26%20Scalable%20Systems&descSize=15&descAlignY=55&descColor=88eecc&animation=twinkling&rotate=13" width="100%" />
 
 <br/>
@@ -12,7 +12,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=4EC9B0&center=true&vCenter=true&repeat=true&width=650&lines=%F0%9F%91%8B+Hey%2C+I'm+Neeraj!;%E2%98%95+Java+%7C+Spring+Boot+%7C+React;%F0%9F%94%92+Security+Enthusiast;%F0%9F%9A%80+Building+Production-Grade+Java+APIs;%E2%98%81%EF%B8%8F+Deploying+on+AWS+%26+Google+Cloud)](https://github.com/neerajsait)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=4EC9B0&center=true&vCenter=true&repeat=true&width=700&lines=%F0%9F%91%8B+Hey%2C+I'm+Neeraj!;%E2%98%95+Java+%7C+Spring+Boot+%7C+React+%7C+TypeScript;%F0%9F%94%92+Security+Enthusiast;%F0%9F%9A%80+Building+Production-Grade+APIs;%F0%9F%A4%96+Exploring+AI+%26+Machine+Learning;%E2%98%81%EF%B8%8F+Deploying+on+AWS+%26+Docker)](https://github.com/neerajsait)
 
 <br/>
 
@@ -45,18 +45,19 @@
 > ╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝
 > ```
 >
-> ⠀
 > **`[SYSTEM]`** Booting developer profile...
 >
 > **`[✔ LOADED]`** &nbsp; 🎓 &nbsp; **KL University**, Vijayawada — B.Tech Computer Science Engineering
 >
-> **`[✔ LOADED]`** &nbsp; 🏗️ &nbsp; Core Stack → **Spring Boot** + **React**
+> **`[✔ LOADED]`** &nbsp; 🏗️ &nbsp; Core Stack → **Spring Boot** + **React** + **TypeScript**
 >
-> **`[✔ LOADED]`** &nbsp; 🔒 &nbsp; Passion → **Application Security** — encryption, auth, defense
+> **`[✔ LOADED]`** &nbsp; 🔒 &nbsp; Passion → **Application Security** — encryption, auth, zero-knowledge proofs
 >
-> **`[✔ LOADED]`** &nbsp; ⚡ &nbsp; Currently Learning → **Microservices Architecture**
+> **`[✔ LOADED]`** &nbsp; 🤖 &nbsp; Exploring → **AI/ML** — phishing detection, face recognition, smart systems
 >
-> **`[✔ LOADED]`** &nbsp; 💬 &nbsp; Ask Me About → **Java, REST APIs, Cloud Deployments**
+> **`[✔ LOADED]`** &nbsp; ⚡ &nbsp; Currently Building → **Microservices** + **Containerized Apps with Docker**
+>
+> **`[✔ LOADED]`** &nbsp; 💬 &nbsp; Ask Me About → **Java, REST APIs, Cybersecurity, Python**
 >
 > **`[✔ LOADED]`** &nbsp; 🎧 &nbsp; Fun Fact → Lo-fi + coding = flow state
 >
@@ -66,20 +67,20 @@
 
 ---
 
-<!-- ━━━━━━━━━ WHAT I BRING TO THE TABLE ━━━━━━━━━ -->
+<!-- ━━━━━━━━━ SKILLS ━━━━━━━━━ -->
 
 ### 🎯 What I Bring to the Table
 
 <div align="center">
 <br/>
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,python,django,flask,html,css&perline=9&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,ts,react,js,python,flask,html,css&perline=9&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,mysql,redis,git,github,vscode,figma&perline=9&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,mysql,aws,git,github,vscode,figma,linux,bash&perline=9&theme=dark" />
 
 <br/>
 
-`Java` `Spring Boot` `React` `JavaScript` `Python` `Django` `Flask` `AWS` `GCP` `Docker` `MySQL` `Redis` `Git`
+`Java` `Spring Boot` `TypeScript` `React.js` `JavaScript` `Python` `Flask` `Docker` `MySQL` `AWS` `Git` `Linux`
 
 </div>
 
@@ -101,72 +102,88 @@
 <tr>
 <td width="50%" valign="top">
 
-**🏛️ [RecruiterService](https://github.com/neerajsait/RecruiterService)**
-
-A complete campus recruitment system where companies can post jobs, track applicants, and schedule interviews — designed to streamline the entire hiring workflow.
-
-| Feature | Status |
-|:--------|:------:|
-| Role-based admin & recruiter access | ✅ |
-| Real-time application dashboard | ✅ |
-| Calendar-integrated scheduling | ✅ |
-
-`Spring Boot` `JSP` `MySQL` `JavaScript`
+### 🔐 [ZK-Vault](https://github.com/neerajsait/ZK-Vault)
+Zero-Knowledge secure vault for private data storage — cryptographic privacy built with **Python**.
+<br/><br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Security](https://img.shields.io/badge/Security-red?style=flat-square)
+![Cryptography](https://img.shields.io/badge/Cryptography-blueviolet?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-**🔐 [Security-High](https://github.com/neerajsait/Security-High)**
-
-A security-first Flask application proving that user data protection can be the core product — not just a checkbox. Built with strong encryption and multi-layer authentication.
-
-| Feature | Status |
-|:--------|:------:|
-| AES-256 encrypted data storage | ✅ |
-| OTP-based email verification | ✅ |
-| Secure session management | ✅ |
-
-`Python` `Flask` `Cryptography`
+### 🌐 [Portfolio](https://github.com/neerajsait/portfoliomain)
+Personal portfolio website built with **TypeScript** — showcasing projects, skills, and experience.
+<br/><br/>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Frontend](https://img.shields.io/badge/Frontend-success?style=flat-square)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🖥️ [Network-Monitor](https://github.com/neerajsait/Network-Monitor)**
-
-Real-time network monitoring with visual dashboards to track connectivity, latency, and performance metrics across your infrastructure.
-
-`HTML` `CSS` `JavaScript`
+### 🎯 [Phishing URL Detector](https://github.com/neerajsait/Phishing-URL)
+ML model that classifies phishing URLs in real-time — cybersecurity meets **machine learning**.
+<br/><br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square)
+![CyberSec](https://img.shields.io/badge/CyberSecurity-red?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-**🧠 [Face-Recognition](https://github.com/neerajsait/Face-Recognition)**
-
-JavaScript-based facial detection and identification system using ML libraries for real-time face recognition directly in the browser.
-
-`JavaScript` `ML` `face-api.js`
+### 👤 [Face Recognition](https://github.com/neerajsait/Face-Recognition)
+Real-time face recognition web app powered by **JavaScript** and AI vision APIs.
+<br/><br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![AI](https://img.shields.io/badge/AI-blueviolet?style=flat-square)
+![Vision](https://img.shields.io/badge/Computer%20Vision-blue?style=flat-square)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**📋 [sdpproject](https://github.com/neerajsait/sdpproject)**
-
-Full-stack Java web application built through the complete Software Development Project lifecycle — from design to deployment.
-
-`Java` `JSP` `MySQL`
+### 🐳 [Flask + Docker](https://github.com/neerajsait/packing-flask-with-docker)
+Flask web app fully containerized with **Docker** — a practical DevOps & deployment reference.
+<br/><br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-orange?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-**🌐 [Portfolio](https://github.com/neerajsait/portfolio)**
+### 💼 [Recruiter Service](https://github.com/neerajsait/RecruiterService)
+Full-stack recruitment backend built with **Java + Spring Boot** — REST APIs, business logic, persistence.
+<br/><br/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-success?style=flat-square)
 
-My personal developer portfolio — clean, responsive design showcasing my projects, skills, and journey as a full-stack developer.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-`HTML` `CSS` `JavaScript`
+### 📅 [Jeevan Planner](https://github.com/neerajsait/JeevanPlanner)
+Life planning web app to organize daily tasks, goals, and schedules — built for real productivity.
+<br/><br/>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔑 [OTP Auth with Flask](https://github.com/neerajsait/OTP_with_flask)
+Secure OTP-based authentication system built with **Python + Flask** — real-world auth flow from scratch.
+<br/><br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&logoColor=white)
+![Auth](https://img.shields.io/badge/Authentication-red?style=flat-square)
 
 </td>
 </tr>
@@ -174,30 +191,25 @@ My personal developer portfolio — clean, responsive design showcasing my proje
 
 </div>
 
-<div align="center">
 <br/>
-<a href="https://github.com/neerajsait?tab=repositories">
-<img src="https://img.shields.io/badge/🔍%20View%20All%20Repositories-2b3137?style=for-the-badge" />
-</a>
-</div>
 
 ---
 
 <!-- ━━━━━━━━━ STATS ━━━━━━━━━ -->
 
-### 📈 GitHub Metrics
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=neerajsait&show_icons=true&hide_border=true&border_radius=15&count_private=true&bg_color=161b22&title_color=f0883e&icon_color=f0883e&text_color=c9d1d9" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=neerajsait&hide_border=true&border_radius=15&background=161b22&ring=f0883e&fire=f78166&currStreakLabel=f0883e&sideLabels=c9d1d9&dates=546577&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=neerajsait&show_icons=true&hide_border=true&border_radius=15&bg_color=161b22&title_color=4EC9B0&text_color=c9d1d9&icon_color=f0883e" />
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajsait&layout=donut&hide_border=true&border_radius=15&bg_color=161b22&title_color=f0883e&text_color=c9d1d9&langs_count=6" />
 
 </div>
 
 <br/>
 
 <div align="center">
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajsait&layout=donut&hide_border=true&border_radius=15&bg_color=161b22&title_color=f0883e&text_color=c9d1d9&langs_count=6" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=neerajsait&theme=dark&hide_border=true&border_radius=15&background=161b22&ring=4EC9B0&fire=f0883e&currStreakLabel=4EC9B0" width="60%" />
 </div>
 
 <br/>
@@ -218,11 +230,13 @@ My personal developer portfolio — clean, responsive design showcasing my proje
 
 ## 🤝 Let's Build Something Amazing Together
 
-<samp>I'm always looking for opportunities to collaborate on innovative projects.<br/>If you're working on something exciting — let's connect!</samp>
+<samp>I'm always open to interesting collaborations, open-source contributions, and new opportunities.<br/>If you're working on something exciting — let's connect!</samp>
 
 <br/>
 
 <a href="mailto:tneerajvenkatasai@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-tneerajvenkatasai%40gmail.com-2ea043?style=for-the-badge" /></a>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/neerajsait/"><img src="https://img.shields.io/badge/💼%20LinkedIn-neerajsait-0A66C2?style=for-the-badge" /></a>&nbsp;
 <a href="https://github.com/neerajsait"><img src="https://img.shields.io/badge/🔗%20GitHub-neerajsait-181717?style=for-the-badge" /></a>&nbsp;
