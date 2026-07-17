@@ -16,7 +16,7 @@
 
 # FULL-STACK DEVELOPER ENGINEERS SECURE, SCALABLE SYSTEMS FROM GROUND UP
 
-### *Java · Spring Boot · React · TypeScript · Python · Cybersecurity*
+### *Java · Spring Boot · React · Python · Cybersecurity*
 
 **Reported by Tiruveedhi Neeraj Venkata Sai** &nbsp;|&nbsp; *B.Tech CS — KL University*
 
@@ -49,9 +49,8 @@ Neeraj Venkata Sai is a computer science undergraduate at KL University, Vijayaw
 
 | Languages | Frameworks & Libraries | Tools & Infrastructure |
 |:----------|:----------------------|:----------------------|
-| Java | Spring Boot | Docker |
-| TypeScript | React.js | MySQL |
-| Python | Node.js & Express | Git & GitHub |
+| Java | Spring Boot | Docker | | React.js | MySQL |
+| Python | Redis | Git & GitHub |
 | JavaScript | Flask | AWS |
 | C | REST APIs | Linux |
 
