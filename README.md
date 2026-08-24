@@ -6,6 +6,8 @@
 
 
 </div>
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&pause=900&color=F97316&center=true&vCenter=true&width=600&lines=curiosity+detected...;turning+ideas+into+working+systems;probably+debugging+something+right+now" alt="Typing introduction" />
+
 
 ---
 
