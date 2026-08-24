@@ -10,6 +10,9 @@
 
 ---
 
+![Neeraj profile banner](https://raw.githubusercontent.com/neerajsait/neerajsait/main/assets/neeraj-profile-banner.png)
+
+
 > **FIELD NOTE 028**  
 > **Subject:** Tiruveedhi Neeraj Venkata Sai  
 > **Known aliases:** Neeraj · full-stack developer · person who opens one more tab  
