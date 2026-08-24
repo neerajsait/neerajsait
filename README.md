@@ -24,6 +24,16 @@ Sometimes that looks like a Spring Boot backend. Sometimes it looks like a React
 
 I’m studying at **KL University**, but the real curriculum is the collection of things I have tried to build, break, fix, and understand.
 
+## Featured builds
+
+| Project | The one-line version |
+| --- | --- |
+| [RecruiterService](https://github.com/neerajsait/RecruiterService) | **Recruit smarter. Move faster.** A clean Spring Boot backend for modern recruiting workflows. |
+| [ZK-Vault](https://github.com/neerajsait/ZK-Vault) | **Your data. Your secret.** A privacy-first vault built around zero-knowledge security. |
+| [Network-Monitor](https://github.com/neerajsait/Network-Monitor) | **See the signal. Catch the trouble.** A dashboard for watching your network in real time. |
+| [food](https://github.com/neerajsait/food) | **Less deciding. More eating.** A playful food project for turning cravings into choices. |
+| [cybersecurity-projects](https://github.com/neerajsait/cybersecurity-projects) | **Learn by testing the edges.** A hands-on lab for practical cybersecurity experiments. |
+
 ## Choose your own entrance
 
 <details>
