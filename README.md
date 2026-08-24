@@ -1,96 +1,112 @@
-<!--
-  NEERAJ.SYS // profile interface
-  Built for humans, not scanners.
--->
-
 <div align="center">
 
-# NEERAJ SAI
+# YOU FOUND NEERAJ.
 
-### I turn curious questions into working software.
+### This was not supposed to be a portfolio.
 
-<p>
-  <a href="https://github.com/neerajsait"><img src="https://img.shields.io/badge/STATUS-ALWAYS_BUILDING-111827?style=for-the-badge&labelColor=111827&color=22d3ee" alt="Always building" /></a>
-  <a href="https://github.com/neerajsait/portfoliomain"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN-111827?style=for-the-badge&labelColor=111827&color=a78bfa" alt="Portfolio" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&pause=900&color=F97316&center=true&vCenter=true&width=600&lines=curiosity+detected...;turning+ideas+into+working+systems;probably+debugging+something+right+now" alt="Typing introduction" />
 
 </div>
 
-```text
-┌─────────────────────────────────────────────────────────────────────┐
-│  NEERAJ.SYS / PERSONAL DEVELOPER CONSOLE                           │
-├─────────────────────────────────────────────────────────────────────┤
-│  role      : full-stack developer                                  │
-│  base      : Vijayawada, India                                     │
-│  habitat   : backend systems · web products · security labs · AI    │
-│  operating : learn → build → break → understand → ship             │
-└─────────────────────────────────────────────────────────────────────┘
-```
+---
 
-## `> whoami`
+> **FIELD NOTE 028**  
+> **Subject:** Tiruveedhi Neeraj Venkata Sai  
+> **Known aliases:** Neeraj · full-stack developer · person who opens one more tab  
+> **Last seen:** Vijayawada, India  
+> **Status:** building
 
-I’m a full-stack developer at **KL University** who learns by building things that are just a little beyond my current comfort zone. I like the moment an idea stops being a diagram and starts behaving like a real product.
+## The short version
 
-My projects move between **Java and Spring Boot**, **React and TypeScript**, **Python security tools**, automation, and AI experiments. Different technologies, same obsession: make the system useful, understandable, and difficult to break.
+I collect interesting problems and make them executable.
 
-## `> current_mission`
+Sometimes that looks like a Spring Boot backend. Sometimes it looks like a React interface, a security experiment, an automation tool, or a completely unnecessary game that taught me something important.
 
-> Build software with a point of view — not another copy-paste tutorial.
+I’m studying at **KL University**, but the real curriculum is the collection of things I have tried to build, break, fix, and understand.
 
-- Sharpening production-minded backend engineering
-- Exploring application security and privacy-first systems
-- Turning experiments into projects people can actually use
-- Writing code that is clean enough to revisit and brave enough to evolve
-
-## `> project_constellation`
-
-| Signal | Project | What it says about me |
-| :---: | --- | --- |
-| `01` | [ZK-Vault](https://github.com/neerajsait/ZK-Vault) | Privacy and security should be part of the design, not an afterthought. |
-| `02` | [PayStream](https://github.com/neerajsait/PayStream) | Business logic deserves the same care as the interface. |
-| `03` | [cybersecurity-projects](https://github.com/neerajsait/cybersecurity-projects) | The best way to understand systems is to test their edges. |
-| `04` | [RecruiterService](https://github.com/neerajsait/RecruiterService) | APIs are products too — clarity matters. |
-| `05` | [portfoliomain](https://github.com/neerajsait/portfoliomain) | The work is the introduction. |
+## Choose your own entrance
 
 <details>
-<summary><b>Open the toolbox</b></summary>
+<summary><b>If you came here to see what I can build</b></summary>
+
 <br />
 
-**Languages**  
-Java · JavaScript · TypeScript · Python · C
-
-**Frameworks & runtime**  
-Spring Boot · React · Node.js · Express · Flask
-
-**Focus areas**  
-REST APIs · web applications · authentication · automation · cybersecurity · AI
+Start with [PayStream](https://github.com/neerajsait/PayStream), [RecruiterService](https://github.com/neerajsait/RecruiterService), or [portfoliomain](https://github.com/neerajsait/portfoliomain).
 
 </details>
 
-## `> build_philosophy`
-
-```diff
-+ Start with the user problem.
-+ Make the first version real.
-+ Prefer boring reliability over clever fragility.
-+ Treat security as a feature.
-+ Leave every project better than you found it.
-- Ship something I don't understand.
-```
-
-## `> signal`
-
-I’m interested in collaborating on practical products, developer tools, security projects, and unusual ideas that deserve to exist.
-
-<div align="center">
-
-### Find me in the network
-
-[![GitHub](https://img.shields.io/badge/GitHub-NEERAJSAIT-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neerajsait)
-[![Portfolio](https://img.shields.io/badge/Portfolio-EXPLORE-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/neerajsait/portfoliomain)
+<details>
+<summary><b>If you came here because security is interesting</b></summary>
 
 <br />
 
-<sub>Currently online. Probably building something.</sub>
+Enter [ZK-Vault](https://github.com/neerajsait/ZK-Vault) or wander through [cybersecurity-projects](https://github.com/neerajsait/cybersecurity-projects).
+
+</details>
+
+<details>
+<summary><b>If you came here to understand how I learn</b></summary>
+
+<br />
+
+Look at the experiments: [JavaScript](https://github.com/neerajsait/JavaScript), [patterns](https://github.com/neerajsait/patterns), [programs](https://github.com/neerajsait/programs), and the projects that started as “I wonder if…”
+
+</details>
+
+<details>
+<summary><b>If you came here by accident</b></summary>
+
+<br />
+
+That is how most good ideas begin. Stay for one project.
+
+</details>
+
+## Inventory of unusual behavior
+
+```text
+[ + ] learns by making the idea real
+[ + ] enjoys the backend as much as the button connected to it
+[ + ] treats security like a habit, not a checkbox
+[ + ] will turn a question into a weekend project
+[ ? ] still believes the bug is probably one line above
+[ ! ] has more unfinished ideas than browser tabs
+```
+
+## Current experiments
+
+| Experiment | Current state |
+| --- | --- |
+| Java + Spring Boot | teaching reliable APIs how to behave |
+| React + TypeScript | making interfaces feel less like paperwork |
+| Python + security | poking systems until they explain themselves |
+| AI + automation | finding better ways to remove repetitive work |
+| New ideas | multiplying when nobody is looking |
+
+## Things I believe
+
+```diff
++ The best portfolio is evidence, not adjectives.
++ A small working prototype beats a perfect plan.
++ If you cannot explain the system, you probably do not own it yet.
++ Good software is useful before it is impressive.
++ Every bug is a rude but effective teacher.
+- “Passionate developer” with nothing interesting to show.
+```
+
+## Transmission channel
+
+I like practical products, strange ideas, developer tools, privacy-focused systems, and collaborations where everyone leaves having learned something.
+
+If that sounds like you, send a signal:
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/OPEN_THE_REPOSITORIES-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neerajsait)
+[![Portfolio](https://img.shields.io/badge/ENTER_THE_PORTFOLIO-F97316?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/neerajsait/portfoliomain)
+
+<br /><br />
+
+<sub>If you made it this far, you are officially part of the experiment.</sub>
 
 </div>
