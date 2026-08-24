@@ -1,122 +1,56 @@
 <div align="center">
 
-# YOU FOUND NEERAJ.
+# Hi, I’m Neeraj Sai
 
-### This was not supposed to be a portfolio.
+**Full-stack developer building web apps, backend systems, and security projects.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&pause=900&color=F97316&center=true&vCenter=true&width=600&lines=curiosity+detected...;turning+ideas+into+working+systems;probably+debugging+something+right+now" alt="Typing introduction" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-neerajsait.netlify.app-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://neerajsait.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neerajsait)
+[![GitHub](https://img.shields.io/badge/GitHub-neerajsait-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neerajsait)
 
 </div>
 
----
+## About me
 
-> **FIELD NOTE 028**  
-> **Subject:** Tiruveedhi Neeraj Venkata Sai  
-> **Known aliases:** Neeraj · full-stack developer · person who opens one more tab  
-> **Last seen:** Vijayawada, India  
-> **Status:** building
+I’m a developer at **KL University** who likes learning by building real projects. My work sits mostly around Java, Spring Boot, React, TypeScript, Python, and application security.
 
-## The short version
+I enjoy taking an idea from “what if?” to a working prototype, then improving the parts that matter: the API, the user experience, reliability, and security.
 
-I collect interesting problems and make them executable.
+## Featured work
 
-Sometimes that looks like a Spring Boot backend. Sometimes it looks like a React interface, a security experiment, an automation tool, or a completely unnecessary game that taught me something important.
+These are the projects currently pinned on my profile:
 
-I’m studying at **KL University**, but the real curriculum is the collection of things I have tried to build, break, fix, and understand.
-
-## Featured builds
-
-| Project | The one-line version |
+| Project | What it is |
 | --- | --- |
-| [RecruiterService](https://github.com/neerajsait/RecruiterService) | **Recruit smarter. Move faster.** A clean Spring Boot backend for modern recruiting workflows. |
-| [ZK-Vault](https://github.com/neerajsait/ZK-Vault) | **Your data. Your secret.** A privacy-first vault built around zero-knowledge security. |
-| [Network-Monitor](https://github.com/neerajsait/Network-Monitor) | **See the signal. Catch the trouble.** A dashboard for watching your network in real time. |
-| [food](https://github.com/neerajsait/food) | **Less deciding. More eating.** A playful food project for turning cravings into choices. |
-| [cybersecurity-projects](https://github.com/neerajsait/cybersecurity-projects) | **Learn by testing the edges.** A hands-on lab for practical cybersecurity experiments. |
+| [RecruiterService](https://github.com/neerajsait/RecruiterService) | A Spring Boot backend for building cleaner recruiter workflows. |
+| [cybersecurity-projects](https://github.com/neerajsait/cybersecurity-projects) | Python security projects and penetration-testing practice. |
+| [Network-Monitor](https://github.com/neerajsait/Network-Monitor) | A dashboard for keeping an eye on network activity. |
+| [Face-Recognition](https://github.com/neerajsait/Face-Recognition) | A JavaScript project exploring face recognition and AI APIs. |
+| [sdpproject](https://github.com/neerajsait/sdpproject) | A Java and Spring Boot software development project. |
 
-## Choose your own entrance
+A few other projects I’ve enjoyed building include [ZK-Vault](https://github.com/neerajsait/ZK-Vault), [PayStream](https://github.com/neerajsait/PayStream), and [food](https://github.com/neerajsait/food).
 
-<details>
-<summary><b>If you came here to see what I can build</b></summary>
+## Tools I use
 
-<br />
+- **Languages:** Java, JavaScript, TypeScript, Python, C
+- **Backend:** Spring Boot, Node.js, Express, Flask, REST APIs
+- **Frontend:** React, HTML, CSS
+- **Interests:** application security, privacy-focused software, automation, and AI
 
-Start with [PayStream](https://github.com/neerajsait/PayStream), [RecruiterService](https://github.com/neerajsait/RecruiterService), or [portfoliomain](https://github.com/neerajsait/portfoliomain).
+## What I’m looking for
 
-</details>
+I’m open to **internships and entry-level roles in full-stack development, backend engineering, Java/Spring Boot, React/TypeScript, and security-focused software engineering**.
 
-<details>
-<summary><b>If you came here because security is interesting</b></summary>
+If you’re hiring for a role in those areas, I’d be happy to connect.
 
-<br />
+## Let’s connect
 
-Enter [ZK-Vault](https://github.com/neerajsait/ZK-Vault) or wander through [cybersecurity-projects](https://github.com/neerajsait/cybersecurity-projects).
-
-</details>
-
-<details>
-<summary><b>If you came here to understand how I learn</b></summary>
-
-<br />
-
-Look at the experiments: [JavaScript](https://github.com/neerajsait/JavaScript), [patterns](https://github.com/neerajsait/patterns), [programs](https://github.com/neerajsait/programs), and the projects that started as “I wonder if…”
-
-</details>
-
-<details>
-<summary><b>If you came here by accident</b></summary>
-
-<br />
-
-That is how most good ideas begin. Stay for one project.
-
-</details>
-
-## Inventory of unusual behavior
-
-```text
-[ + ] learns by making the idea real
-[ + ] enjoys the backend as much as the button connected to it
-[ + ] treats security like a habit, not a checkbox
-[ + ] will turn a question into a weekend project
-[ ? ] still believes the bug is probably one line above
-[ ! ] has more unfinished ideas than browser tabs
-```
-
-## Current experiments
-
-| Experiment | Current state |
-| --- | --- |
-| Java + Spring Boot | teaching reliable APIs how to behave |
-| React + TypeScript | making interfaces feel less like paperwork |
-| Python + security | poking systems until they explain themselves |
-| AI + automation | finding better ways to remove repetitive work |
-| New ideas | multiplying when nobody is looking |
-
-## Things I believe
-
-```diff
-+ The best portfolio is evidence, not adjectives.
-+ A small working prototype beats a perfect plan.
-+ If you cannot explain the system, you probably do not own it yet.
-+ Good software is useful before it is impressive.
-+ Every bug is a rude but effective teacher.
-- “Passionate developer” with nothing interesting to show.
-```
-
-## Transmission channel
-
-I like practical products, strange ideas, developer tools, privacy-focused systems, and collaborations where everyone leaves having learned something.
-
-If that sounds like you, send a signal:
+- Portfolio: [neerajsait.netlify.app](https://neerajsait.netlify.app/)
+- LinkedIn: [linkedin.com/in/neerajsait](https://linkedin.com/in/neerajsait)
+- GitHub: [github.com/neerajsait](https://github.com/neerajsait)
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/OPEN_THE_REPOSITORIES-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neerajsait)
-[![Portfolio](https://img.shields.io/badge/ENTER_THE_PORTFOLIO-F97316?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/neerajsait/portfoliomain)
-
-<br /><br />
-
-<sub>If you made it this far, you are officially part of the experiment.</sub>
+<sub>Most of my learning happens in public, one project at a time.</sub>
 
 </div>
