@@ -4,7 +4,6 @@
 
 ### This was not supposed to be a portfolio.
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&pause=900&color=F97316&center=true&vCenter=true&width=600&lines=curiosity+detected...;turning+ideas+into+working+systems;probably+debugging+something+right+now" alt="Typing introduction" />
 
 </div>
 
@@ -109,15 +108,16 @@ That is how most good ideas begin. Stay for one project.
 
 ## Transmission channel
 
-I like practical products, strange ideas, developer tools, privacy-focused systems, and collaborations where everyone leaves having learned something.
+**Open to full-stack & backend opportunities**  
+Java · Spring Boot · React · TypeScript · Python
 
-If that sounds like you, send a signal:
+📧 [tneerajvenkatasai@gmail.com](mailto:tneerajvenkatasai@gmail.com)
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-NEERAJSAIT.NETLIFY.APP-F97316?style=for-the-badge&logo=google-chrome&logoColor=white)](https://neerajsait.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neerajsait)
-[![GitHub](https://img.shields.io/badge/OPEN_THE_REPOSITORIES-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neerajsait)
+[![Email](https://img.shields.io/badge/EMAIL-tneerajvenkatasai%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tneerajvenkatasai@gmail.com)
 
 <br /><br />
 
