@@ -9,7 +9,6 @@
 
 ---
 
-![Neeraj profile banner](https://raw.githubusercontent.com/neerajsait/neerajsait/main/assets/neeraj-profile-banner.png)
 
 
 > **FIELD NOTE 028**  
