@@ -1,37 +1,96 @@
-# Hey, I'm Neeraj Sai
+<!--
+  NEERAJ.SYS // profile interface
+  Built for humans, not scanners.
+-->
 
-### Full-stack developer · builder · security explorer
+<div align="center">
 
-I turn ideas into working software — from reliable backend services and polished web apps to cybersecurity tools and AI-powered experiments. I enjoy learning by building, breaking problems into clear systems, and shipping projects that are useful beyond the tutorial.
+# NEERAJ SAI
 
-Currently building and learning at **KL University**, with a focus on Java, Spring Boot, React, TypeScript, Python, and secure application design.
+### I turn curious questions into working software.
 
-## What I work with
+<p>
+  <a href="https://github.com/neerajsait"><img src="https://img.shields.io/badge/STATUS-ALWAYS_BUILDING-111827?style=for-the-badge&labelColor=111827&color=22d3ee" alt="Always building" /></a>
+  <a href="https://github.com/neerajsait/portfoliomain"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN-111827?style=for-the-badge&labelColor=111827&color=a78bfa" alt="Portfolio" /></a>
+</p>
 
-- **Backend:** Java, Spring Boot, REST APIs, Node.js, Express, Flask
-- **Frontend:** React, TypeScript, JavaScript, HTML, CSS
-- **Security:** authentication, secure storage, network monitoring, penetration-testing concepts
-- **Interests:** AI projects, developer tools, automation, and product-focused engineering
+</div>
 
-## Featured work
+```text
+┌─────────────────────────────────────────────────────────────────────┐
+│  NEERAJ.SYS / PERSONAL DEVELOPER CONSOLE                           │
+├─────────────────────────────────────────────────────────────────────┤
+│  role      : full-stack developer                                  │
+│  base      : Vijayawada, India                                     │
+│  habitat   : backend systems · web products · security labs · AI    │
+│  operating : learn → build → break → understand → ship             │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
-| Project | What it explores |
-| --- | --- |
-| [ZK-Vault](https://github.com/neerajsait/ZK-Vault) | Privacy-first secure data storage using zero-knowledge concepts |
-| [PayStream](https://github.com/neerajsait/PayStream) | Payroll workflows, validation, tax deductions, and net pay calculations |
-| [cybersecurity-projects](https://github.com/neerajsait/cybersecurity-projects) | Python security tooling and penetration-testing practice |
-| [portfoliomain](https://github.com/neerajsait/portfoliomain) | My personal portfolio and project showcase |
-| [RecruiterService](https://github.com/neerajsait/RecruiterService) | Spring Boot backend for recruiter workflows |
+## `> whoami`
 
-## A little more about me
+I’m a full-stack developer at **KL University** who learns by building things that are just a little beyond my current comfort zone. I like the moment an idea stops being a diagram and starts behaving like a real product.
 
-- I learn fastest by turning concepts into real, working projects.
-- I care about readable code, thoughtful user experiences, and secure defaults.
-- I am always open to collaborating on interesting products, developer tools, and security-focused ideas.
+My projects move between **Java and Spring Boot**, **React and TypeScript**, **Python security tools**, automation, and AI experiments. Different technologies, same obsession: make the system useful, understandable, and difficult to break.
 
-## Let's connect
+## `> current_mission`
 
-[![GitHub](https://img.shields.io/badge/GitHub-neerajsait-181717?style=for-the-badge&logo=github)](https://github.com/neerajsait)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/neerajsait/portfoliomain)
+> Build software with a point of view — not another copy-paste tutorial.
 
-> Build with purpose. Learn in public. Keep improving.
+- Sharpening production-minded backend engineering
+- Exploring application security and privacy-first systems
+- Turning experiments into projects people can actually use
+- Writing code that is clean enough to revisit and brave enough to evolve
+
+## `> project_constellation`
+
+| Signal | Project | What it says about me |
+| :---: | --- | --- |
+| `01` | [ZK-Vault](https://github.com/neerajsait/ZK-Vault) | Privacy and security should be part of the design, not an afterthought. |
+| `02` | [PayStream](https://github.com/neerajsait/PayStream) | Business logic deserves the same care as the interface. |
+| `03` | [cybersecurity-projects](https://github.com/neerajsait/cybersecurity-projects) | The best way to understand systems is to test their edges. |
+| `04` | [RecruiterService](https://github.com/neerajsait/RecruiterService) | APIs are products too — clarity matters. |
+| `05` | [portfoliomain](https://github.com/neerajsait/portfoliomain) | The work is the introduction. |
+
+<details>
+<summary><b>Open the toolbox</b></summary>
+<br />
+
+**Languages**  
+Java · JavaScript · TypeScript · Python · C
+
+**Frameworks & runtime**  
+Spring Boot · React · Node.js · Express · Flask
+
+**Focus areas**  
+REST APIs · web applications · authentication · automation · cybersecurity · AI
+
+</details>
+
+## `> build_philosophy`
+
+```diff
++ Start with the user problem.
++ Make the first version real.
++ Prefer boring reliability over clever fragility.
++ Treat security as a feature.
++ Leave every project better than you found it.
+- Ship something I don't understand.
+```
+
+## `> signal`
+
+I’m interested in collaborating on practical products, developer tools, security projects, and unusual ideas that deserve to exist.
+
+<div align="center">
+
+### Find me in the network
+
+[![GitHub](https://img.shields.io/badge/GitHub-NEERAJSAIT-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neerajsait)
+[![Portfolio](https://img.shields.io/badge/Portfolio-EXPLORE-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/neerajsait/portfoliomain)
+
+<br />
+
+<sub>Currently online. Probably building something.</sub>
+
+</div>
