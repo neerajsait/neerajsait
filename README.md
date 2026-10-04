@@ -1,117 +1,66 @@
-<!-- Paste this into the README.md of your repo named exactly: neerajsait/neerajsait -->
+<!-- Paste into README.md of your repo named exactly: neerajsait/neerajsait -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Neeraj%20Venkata%20Sai&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%C2%B7%20Spring%20Boot%20Backend%20Developer%20%7C%20Security-Minded%20Engineer&descSize=18&descAlignY=58" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,100:334155&section=header&text=Neeraj%20Venkata%20Sai&fontSize=46&fontColor=f8fafc&fontAlignY=40&desc=Backend%20Developer%20%C2%B7%20Java%20%26%20Spring%20Boot%20%C2%B7%20Security-Minded&descSize=17&descColor=94a3b8&descAlignY=62" width="100%" alt=""/>
 
-<div align="center">
+<p align="center">
+  <b>I build secure, reliable backend systems.</b><br/>
+  <sub>B.Tech CSE, KL University &nbsp;·&nbsp; Vijayawada, India &nbsp;·&nbsp; Open to full-time roles</sub>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;I+build+secure+REST+APIs;Zero-Knowledge+Crypto+%7C+ML+Security+Tools;Open+to+full-time+roles+%F0%9F%9A%80)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://www.linkedin.com/in/neerajsait/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0ea5e9" alt="LinkedIn"/></a>
+  <a href="mailto:tneerajvenkatasai@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=0ea5e9" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20work-0f172a?style=for-the-badge&logo=checkmarx&logoColor=22c55e" alt="Open to work"/>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=neerajsait&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/neerajsait?style=for-the-badge&logo=github&color=203a43)
-![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-22c55e?style=for-the-badge)
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-neerajsait-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neerajsait/)
-[![Gmail](https://img.shields.io/badge/Email-tneerajvenkatasai@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tneerajvenkatasai@gmail.com)
+## About
 
-</div>
+Backend developer focused on **Java and Spring Boot**, with a background in **applied security**. I like systems where the design decisions matter: authentication, encryption, and APIs that fail safely.
 
----
+|  |  |
+|---|---|
+| **Focus** | REST APIs · JWT / role-based auth · MySQL · Docker |
+| **Security** | Zero-knowledge cryptography · penetration-testing labs · ML threat detection |
+| **Looking for** | Backend or security-focused developer roles |
+| **Currently learning** | Spring Cloud · System design |
 
-## 👨‍💻 About Me
+<br/>
 
-```java
-public class Neeraj {
-    String role      = "Backend Developer (Java / Spring Boot)";
-    String education = "B.Tech CSE, KL University";
-    String location  = "Vijayawada, India 🇮🇳";
-    String[] focus   = {"REST APIs", "JWT Security", "Cryptography", "ML for Security"};
-    boolean openToWork = true;
-}
-```
+## Tech Stack
 
-- 🔐 Built a **zero-knowledge vault** where the server never sees plaintext
-- 🛡️ Built **security tools** and attack labs (SQL injection, auth bypass, pen-testing scripts)
-- 🤖 Trained an **ML classifier** to detect phishing URLs
-- 📫 Reach me at **tneerajvenkatasai@gmail.com**
+| | |
+|---|---|
+| **Languages** | ![Java](https://img.shields.io/badge/Java-0f172a?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=white) ![C](https://img.shields.io/badge/C-0f172a?style=flat-square&logo=c&logoColor=white) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0f172a?style=flat-square&logo=springboot&logoColor=6DB33F) ![Flask](https://img.shields.io/badge/Flask-0f172a?style=flat-square&logo=flask&logoColor=white) ![REST](https://img.shields.io/badge/REST%20APIs-0f172a?style=flat-square&logo=fastapi&logoColor=0ea5e9) ![JWT](https://img.shields.io/badge/JWT-0f172a?style=flat-square&logo=jsonwebtokens&logoColor=white) |
+| **Data** | ![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=4479A1) ![Redis](https://img.shields.io/badge/Redis-0f172a?style=flat-square&logo=redis&logoColor=DC382D) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=2496ED) ![AWS](https://img.shields.io/badge/AWS-0f172a?style=flat-square&logo=amazonwebservices&logoColor=FF9900) ![Linux](https://img.shields.io/badge/Linux-0f172a?style=flat-square&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=F05032) |
 
----
+<br/>
 
-## 🛠️ Tech Stack
+## Selected Projects
 
-<div align="center">
+| Project | What it does | Stack |
+|---|---|---|
+| **[ZK-Vault](https://github.com/neerajsait/ZK-Vault)** | Encrypted vault where the server never sees plaintext. Encryption happens client-side; the server stores only ciphertext. | `Python` `Cryptography` |
+| **[RecruiterService](https://github.com/neerajsait/RecruiterService)** | Spring Boot backend for campus hiring: job postings, applications and interview scheduling, secured with JWT. | `Java` `Spring Boot` `MySQL` |
+| **[Phishing-URL](https://github.com/neerajsait/Phishing-URL)** | Machine-learning classifier that flags malicious URLs, served through a Flask API. | `Python` `Flask` `ML` |
+| **[cybersecurity-projects](https://github.com/neerajsait/cybersecurity-projects)** | Hands-on labs: injection demos, authentication bypass and pen-testing scripts, each documented with the fix. | `Python` `Bash` |
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,c,react,flask,mysql,redis,docker,aws,linux,git,github&perline=8" alt="skills"/>
+<br/>
 
-</div>
+## GitHub Activity
 
----
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=neerajsait&show_icons=true&theme=transparent&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=64748b&include_all_commits=true" alt="GitHub stats"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajsait&layout=compact&theme=transparent&hide_border=true&title_color=0ea5e9&text_color=64748b&langs_count=6" alt="Top languages"/>
+</p>
 
-## 🚀 Featured Projects
+<br/>
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/neerajsait/ZK-Vault">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=neerajsait&repo=ZK-Vault&theme=tokyonight&hide_border=true" alt="ZK-Vault"/>
-      </a>
-      <br/>🔐 Client-side encryption, server stores only ciphertext
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/neerajsait/RecruiterService">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=neerajsait&repo=RecruiterService&theme=tokyonight&hide_border=true" alt="RecruiterService"/>
-      </a>
-      <br/>💼 Spring Boot hiring backend with JWT & MySQL
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/neerajsait/Phishing-URL">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=neerajsait&repo=Phishing-URL&theme=tokyonight&hide_border=true" alt="Phishing-URL"/>
-      </a>
-      <br/>🕵️ ML classifier for malicious links (Flask)
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/neerajsait/cybersecurity-projects">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=neerajsait&repo=cybersecurity-projects&theme=tokyonight&hide_border=true" alt="cybersecurity-projects"/>
-      </a>
-      <br/>🛡️ Pen-testing scripts & vulnerability labs
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <sub>Let's talk: <a href="mailto:tneerajvenkatasai@gmail.com">tneerajvenkatasai@gmail.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/neerajsait/">LinkedIn</a></sub>
+</p>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=neerajsait&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajsait&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=neerajsait&theme=tokyonight&hide_border=true" alt="streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neerajsait&theme=react-dark&hide_border=true&area=true&color=38bdf8&line=0ea5e9&point=ffffff" width="100%" alt="activity graph"/>
-
-</div>
-
----
-
-## 🎯 Currently
-
-- 🌱 Learning: **Spring Cloud, System Design**
-- 🔨 Building: **more secure backend projects**
-- 💼 Looking for: **Backend / Security-focused developer roles**
-
----
-
-<div align="center">
-
-### 🤝 Let's connect. I reply within 24 hours.
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neerajsait/)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tneerajvenkatasai@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/neerajsai.t)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:334155,100:0f172a&section=footer" width="100%" alt=""/>
