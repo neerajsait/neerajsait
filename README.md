@@ -1,131 +1,33 @@
-<div align="center">
+# Hi, I'm Neeraj 👋
 
-# YOU FOUND NEERAJ.
+**Java / Spring Boot backend developer** · B.Tech CSE, KL University (Vijayawada)
+I build REST APIs and secure backend systems, and I like making them hard to break.
 
-### This was not supposed to be a portfolio.
+📫 tneerajvenkatasai@gmail.com · [LinkedIn](https://www.linkedin.com/in/neerajsait/)
+🟢 Open to full-time backend / security-focused roles
 
+## Tech stack
+**Languages:** Java, Python, JavaScript, C
+**Backend:** Spring Boot, Spring Security, REST APIs, Flask, MySQL, Redis
+**Tools:** Docker, Git, AWS, Linux
 
-</div>
-<div align="center">
+## Featured projects
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&pause=900&color=F97316&center=true&vCenter=true&width=600&lines=curiosity+detected...;turning+ideas+into+working+systems;probably+debugging+something+right+now" alt="curiosity detected" />
+### 🔐 [ZK-Vault](https://github.com/neerajsait/ZK-Vault)
+Password vault where the server never sees plaintext. Client-side encryption using [algorithms, e.g. AES-256 + PBKDF2/Argon2]. [One metric or fact: e.g. "server stores only ciphertext; verified with X tests"].
+`Python` `Cryptography`
 
-</div>
+### 💼 [RecruiterService](https://github.com/neerajsait/RecruiterService)
+Spring Boot backend for campus hiring: job posts, applications, interview scheduling. [N] endpoints, [JWT/role-based access], MySQL.
+`Java` `Spring Boot` `MySQL`
 
+### 🕵️ [Phishing-URL Detector](https://github.com/neerajsait/Phishing-URL)
+ML classifier for malicious URLs, served via Flask. [X]% accuracy on [dataset name, N samples].
+`Python` `scikit-learn` `Flask`
 
----
+### 🛡️ [Cybersecurity Projects](https://github.com/neerajsait/cybersecurity-projects)
+Hands-on labs: SQL injection, auth bypass, pen-testing scripts, documented with what each attack exploits and how to fix it.
+`Python` `Bash`
 
-
-
-> **FIELD NOTE 028**  
-> **Subject:** Tiruveedhi Neeraj Venkata Sai  
-> **Known aliases:** Neeraj · full-stack developer · person who opens one more tab  
-> **Last seen:** Vijayawada, India  
-> **Status:** building
-
-## The short version
-
-I collect interesting problems and make them executable.
-
-Sometimes that looks like a Spring Boot backend. Sometimes it looks like a React interface, a security experiment, an automation tool, or a completely unnecessary game that taught me something important.
-
-I’m studying at **KL University**, but the real curriculum is the collection of things I have tried to build, break, fix, and understand.
-
-## Featured builds
-
-| Project | The one-line version |
-| --- | --- |
-| [RecruiterService](https://github.com/neerajsait/RecruiterService) | **Recruit smarter. Move faster.** A clean Spring Boot backend for modern recruiting workflows. |
-| [ZK-Vault](https://github.com/neerajsait/ZK-Vault) | **Your data. Your secret.** A privacy-first vault built around zero-knowledge security. |
-| [Network-Monitor](https://github.com/neerajsait/Network-Monitor) | **See the signal. Catch the trouble.** A dashboard for watching your network in real time. |
-| [food](https://github.com/neerajsait/food) | **Less deciding. More eating.** A playful food project for turning cravings into choices. |
-| [cybersecurity-projects](https://github.com/neerajsait/cybersecurity-projects) | **Learn by testing the edges.** A hands-on lab for practical cybersecurity experiments. |
-
-## Choose your own entrance
-
-<details>
-<summary><b>If you came here to see what I can build</b></summary>
-
-<br />
-
-Start with [PayStream](https://github.com/neerajsait/PayStream), [RecruiterService](https://github.com/neerajsait/RecruiterService), or [portfoliomain](https://github.com/neerajsait/portfoliomain).
-
-</details>
-
-<details>
-<summary><b>If you came here because security is interesting</b></summary>
-
-<br />
-
-Enter [ZK-Vault](https://github.com/neerajsait/ZK-Vault) or wander through [cybersecurity-projects](https://github.com/neerajsait/cybersecurity-projects).
-
-</details>
-
-<details>
-<summary><b>If you came here to understand how I learn</b></summary>
-
-<br />
-
-Look at the experiments: [JavaScript](https://github.com/neerajsait/JavaScript), [patterns](https://github.com/neerajsait/patterns), [programs](https://github.com/neerajsait/programs), and the projects that started as “I wonder if…”
-
-</details>
-
-<details>
-<summary><b>If you came here by accident</b></summary>
-
-<br />
-
-That is how most good ideas begin. Stay for one project.
-
-</details>
-
-## Inventory of unusual behavior
-
-```text
-[ + ] learns by making the idea real
-[ + ] enjoys the backend as much as the button connected to it
-[ + ] treats security like a habit, not a checkbox
-[ + ] will turn a question into a weekend project
-[ ? ] still believes the bug is probably one line above
-[ ! ] has more unfinished ideas than browser tabs
-```
-
-## Current experiments
-
-| Experiment | Current state |
-| --- | --- |
-| Java + Spring Boot | teaching reliable APIs how to behave |
-| React + TypeScript | making interfaces feel less like paperwork |
-| Python + security | poking systems until they explain themselves |
-| AI + automation | finding better ways to remove repetitive work |
-| New ideas | multiplying when nobody is looking |
-
-## Things I believe
-
-```diff
-+ The best portfolio is evidence, not adjectives.
-+ A small working prototype beats a perfect plan.
-+ If you cannot explain the system, you probably do not own it yet.
-+ Good software is useful before it is impressive.
-+ Every bug is a rude but effective teacher.
-- “Passionate developer” with nothing interesting to show.
-```
-
-## Transmission channel
-
-**Open to full-stack & backend opportunities**  
-Java · Spring Boot · React · TypeScript · Python
-
-📧 [tneerajvenkatasai@gmail.com](mailto:tneerajvenkatasai@gmail.com)
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-NEERAJSAIT.NETLIFY.APP-F97316?style=for-the-badge&logo=google-chrome&logoColor=white)](https://neerajsait.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neerajsait)
-[![Email](https://img.shields.io/badge/EMAIL-tneerajvenkatasai%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tneerajvenkatasai@gmail.com)
-
-<br /><br />
-
-<sub>If you made it this far, you are officially part of the experiment.</sub>
-
-</div>
+## Currently
+Learning [one thing, e.g. Spring Cloud / system design]. Looking for a backend role where I can work on security-sensitive systems.
