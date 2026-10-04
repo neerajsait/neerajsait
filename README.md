@@ -33,7 +33,7 @@ I've deployed my projects on **Oracle Cloud**, and I'm currently looking for a *
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,flask,js,react,html,css,mysql,postgres,redis,docker,aws,gcp,linux,git,github&perline=9" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,flask,js,react,html,css,mysql,redis,docker,aws,   ,linux,git,github&perline=9" alt="skills"/>
 
 </div>
 
@@ -45,10 +45,10 @@ I've deployed my projects on **Oracle Cloud**, and I'm currently looking for a *
 |  🐍 | **Python · Flask**                        | ZK-Vault, food-ordering backend and cybersecurity projects                         |
 |  🔐 | **Application Security**                  | Authentication, authorization, secure sessions, input validation and security labs |
 |  🌐 | **REST APIs**                             | Spring Boot and Flask backend projects                                             |
-| 🗄️ | **MySQL · PostgreSQL · Redis**            | Relational data, application persistence and temporary state                       |
+| 🗄️ | **MySQL  · Redis**            | Relational data, application persistence and temporary state                       |
 |  ⚛️ | **React · JavaScript · HTML · CSS**       | Food-ordering interface and Network Monitor dashboard                              |
 |  🐳 | **Docker · Linux · Git · GitHub Actions** | Containerizing RecruiterService, CI builds and project workflows                   |
-|  ☁️ | **Oracle Cloud · AWS · GCP**              | Oracle Cloud deployment of RecruiterService and the food platform; AWS/GCP fundamentals |
+|  ☁️ | **Oracle Cloud · AWS    **              | Oracle Cloud deployment of RecruiterService and the food platform; AWS/    fundamentals |
 
 ### Other tools I work with
 
@@ -101,13 +101,13 @@ flowchart LR
 
 **Taught me:** structuring a Java backend into controllers, services and repositories, and taking a module from code to a live deployment.
 
-🔗 [Standalone service](https://github.com/neerajsait/RecruiterService) · 👥 [Main team repo](https://github.com/neerajsait/JFSDSDPProject) · 🌐 [Live demo](https://trees-diego-elections-aquarium.trycloudflare.com/) · ☁️ Deployed on Oracle Cloud
+🔗 [Standalone service](https://github.com/neerajsait/RecruiterService) · 👥 [Main team repo](https://github.com/neerajsait/JFSDSDPProject) · 🌐 [Live demo](https://neerajsait.github.io/RecruiterService/) · ☁️ Deployed on Oracle Cloud
 
 ---
 
 ### 🍱 Food Ordering Platform — Suggula's Kitchen
 
-**Built with:** `React` `Vite` `Flask` `MySQL` `Netlify` `Supabase` `Oracle Cloud`
+**Built with:** `React-Vite` `Flask` `MySQL` `Netlify` `Razor Pay` `Docker` `Oracle Cloud`
 
 A real food-ordering app covering customers, admin, kitchen and outlet workflows.
 
