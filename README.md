@@ -25,7 +25,7 @@ I mainly work with **Java, Spring Boot, Python and Flask**, with a strong intere
 
 I enjoy understanding what happens behind the screen — how a request moves through an API, how data reaches a database, how authentication works, and what happens when someone tries to break those assumptions.
 
-I'm currently looking for a **full-time fresher / graduate role in backend development**, especially roles involving **Java, Spring Boot, APIs and secure systems**.
+I've deployed my projects on **Oracle Cloud**, and I'm currently looking for a **full-time fresher / graduate role in backend development**, especially roles involving **Java, Spring Boot, APIs and secure systems**.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20" width="100%" alt=""/>
 
@@ -48,7 +48,7 @@ I'm currently looking for a **full-time fresher / graduate role in backend devel
 | 🗄️ | **MySQL · PostgreSQL · Redis**            | Relational data, application persistence and temporary state                       |
 |  ⚛️ | **React · JavaScript · HTML · CSS**       | Food-ordering interface and Network Monitor dashboard                              |
 |  🐳 | **Docker · Linux · Git · GitHub Actions** | Development, packaging and project workflows                                       |
-|  ☁️ | **AWS · GCP**                             | Cloud learning, deployment and cloud fundamentals                                  |
+|  ☁️ | **Oracle Cloud · AWS · GCP**              | Oracle Cloud deployment of RecruiterService and the food platform; AWS/GCP fundamentals |
 
 ### Other tools I work with
 
@@ -81,7 +81,7 @@ flowchart LR
 
 ### 💼 RecruiterService — Recruitment Management System
 
-**Built with:** `Java` `Spring Boot` `Hibernate / JPA` `MySQL` `JSP` `JavaMail`
+**Built with:** `Java` `Spring Boot` `Hibernate / JPA` `MySQL` `JSP` `JavaMail` `Oracle Cloud`
 
 A system for recruiters to manage jobs, applicants and interviews. I built the **Recruiter module**: registration/login, dashboard and job management.
 
@@ -95,13 +95,13 @@ flowchart LR
 
 **Taught me:** structuring a Java backend into controllers, services and repositories.
 
-🔗 [RecruiterService](https://github.com/neerajsait/RecruiterService)
+🔗 [Source code](https://github.com/neerajsait/RecruiterService) · 🌐 [Live demo](https://neerajsait.github.io/RecruiterService/) · ☁️ Deployed on Oracle Cloud
 
 ---
 
 ### 🍱 Food Ordering Platform — Suggula's Kitchen
 
-**Built with:** `React` `Vite` `Flask` `MySQL` `Netlify` `Supabase`
+**Built with:** `React` `Vite` `Flask` `MySQL` `Netlify` `Supabase` `Oracle Cloud`
 
 A real food-ordering app covering customers, admin, kitchen and outlet workflows.
 
@@ -114,7 +114,7 @@ flowchart LR
 
 **Taught me:** connecting frontend, backend, database and business rules without trusting the client.
 
-🔗 [Food Project](https://github.com/neerajsait/FoodPilot)
+🔗 [Source code](https://github.com/neerajsait/FoodPilot) · 🌐 [Customer app](https://foodpilot-customer.netlify.app/) · 🛠️ [Admin & staff portal](https://food-pilot.netlify.app/) · ☁️ Deployed on Oracle Cloud
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20" width="100%" alt=""/>
 
@@ -163,8 +163,8 @@ That mindset is why I'm drawn to the overlap between **backend development and c
 |  ☕  | **Backend**         | Moved deeper into Java, Spring Boot, REST APIs and MySQL                               |
 |  🔐 | **Security**        | Started exploring application security, cryptography and security testing              |
 | 🛠️ | **Real Projects**   | Built projects connecting frontend, backend, databases and real business workflows     |
+|  ☁️ | **Deployment**      | Deployed projects on Oracle Cloud and made them available as live applications         |
 |  🚀 | **Now**             | Strengthening Java/Spring Boot, backend architecture, APIs and cybersecurity knowledge |
-
 
 I'm less interested in collecting technologies and more interested in understanding **how they actually work together in a real system**.
 
@@ -183,9 +183,6 @@ I'm looking for a **full-time fresher / graduate software engineering role** whe
 * **Graduate Engineer Trainee – Technology / API Development**
 
 **Interested in:** Java · Spring Boot · REST APIs · Backend Systems · Databases · Distributed Systems · Application Security
-
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20" width="100%" alt=""/>
 
