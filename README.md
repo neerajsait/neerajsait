@@ -114,16 +114,14 @@ flowchart LR
 
 **Taught me:** connecting frontend, backend, database and business rules without trusting the client.
 
-🔗 [Food Project](https://github.com/neerajsait/food)
+🔗 [Food Project](https://github.com/neerajsait/FoodPilot)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20" width="100%" alt=""/>
 
 ## 🏆 Certifications
 
 * ☁️ **AWS Certified Cloud Practitioner (CLF-C02)**
-* 🔐 **Cybersecurity Virtual Internship — Palo Alto Networks**
 * 📮 **Postman API Fundamentals**
-* 🤖 **Automation Anywhere Certified Essentials RPA Professional**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20" width="100%" alt=""/>
 
@@ -167,6 +165,9 @@ That mindset is why I'm drawn to the overlap between **backend development and c
 | 🛠️ | **Real Projects**   | Built projects connecting frontend, backend, databases and real business workflows     |
 |  🚀 | **Now**             | Strengthening Java/Spring Boot, backend architecture, APIs and cybersecurity knowledge |
 
+
+I'm less interested in collecting technologies and more interested in understanding **how they actually work together in a real system**.
+
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20" width="100%" alt=""/>
 
 ## 🎯 What I'm Looking For
@@ -183,19 +184,8 @@ I'm looking for a **full-time fresher / graduate software engineering role** whe
 
 **Interested in:** Java · Spring Boot · REST APIs · Backend Systems · Databases · Distributed Systems · Application Security
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20" width="100%" alt=""/>
 
-## 📚 Currently Learning
 
-* Advanced **Java**
-* **Spring Boot** and backend architecture
-* **REST API design**
-* **Kafka and event-driven systems**
-* **Application security** and cybersecurity fundamentals
-* **Cloud and deployment**
-* Research fundamentals for **AI + Cybersecurity**
-
-I'm less interested in collecting technologies and more interested in understanding **how they actually work together in a real system**.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20" width="100%" alt=""/>
 
