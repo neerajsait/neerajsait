@@ -41,13 +41,13 @@ I've deployed my projects on **Oracle Cloud**, and I'm currently looking for a *
 
 |     | Skill                                     | Where I've used it                                                                 |
 | :-: | ----------------------------------------- | ---------------------------------------------------------------------------------- |
-|  ☕  | **Java · Spring Boot**                    | RecruiterService — backend APIs, business logic and MySQL integration              |
+|  ☕  | **Java · Spring Boot**                    | RecruiterService — backend APIs, business logic, MySQL integration, Docker deployment            |
 |  🐍 | **Python · Flask**                        | ZK-Vault, food-ordering backend and cybersecurity projects                         |
 |  🔐 | **Application Security**                  | Authentication, authorization, secure sessions, input validation and security labs |
 |  🌐 | **REST APIs**                             | Spring Boot and Flask backend projects                                             |
 | 🗄️ | **MySQL · PostgreSQL · Redis**            | Relational data, application persistence and temporary state                       |
 |  ⚛️ | **React · JavaScript · HTML · CSS**       | Food-ordering interface and Network Monitor dashboard                              |
-|  🐳 | **Docker · Linux · Git · GitHub Actions** | Development, packaging and project workflows                                       |
+|  🐳 | **Docker · Linux · Git · GitHub Actions** | Containerizing RecruiterService, CI builds and project workflows                   |
 |  ☁️ | **Oracle Cloud · AWS · GCP**              | Oracle Cloud deployment of RecruiterService and the food platform; AWS/GCP fundamentals |
 
 ### Other tools I work with
@@ -81,9 +81,9 @@ flowchart LR
 
 ### 💼 RecruiterService — Recruitment Management System
 
-**Built with:** `Java` `Spring Boot` `Hibernate / JPA` `MySQL` `JSP` `JavaMail` `Oracle Cloud`
+**Built with:** `Java` `Spring Boot` `Hibernate / JPA` `MySQL` `JSP` `JavaMail` `JUnit` `Docker` `GitHub Actions` `Oracle Cloud`
 
-A system for recruiters to manage jobs, applicants and interviews. I built the **Recruiter module**: registration/login, dashboard and job management.
+The recruiter module of a Campus Recruitment Portal. It started as an **academic team project built as microservices** and was later **combined into a monolith** (main repo: [JFSDSDPProject](https://github.com/neerajsait/JFSDSDPProject)). I built the **Recruiter module**, then took it out as a **standalone service**, containerized it with Docker and deployed it on **Oracle Cloud**.
 
 ```mermaid
 flowchart LR
@@ -93,9 +93,15 @@ flowchart LR
     D --> E[("🛢️ MySQL")]
 ```
 
-**Taught me:** structuring a Java backend into controllers, services and repositories.
+* Recruiter login, dashboard, job postings and tasks
+* CSRF protection, CSP with nonces, OTP-based password recovery
+* JUnit/Mockito test suite, Actuator health endpoints and GitHub Actions CI
 
-🔗 [Source code](https://github.com/neerajsait/RecruiterService) · 🌐 [Live demo](https://neerajsait.github.io/RecruiterService/) · ☁️ Deployed on Oracle Cloud
+> This standalone version is maintained by me and may differ from the main team repo, mainly in the UI.
+
+**Taught me:** structuring a Java backend into controllers, services and repositories, and taking a module from code to a live deployment.
+
+🔗 [Standalone service](https://github.com/neerajsait/RecruiterService) · 👥 [Main team repo](https://github.com/neerajsait/JFSDSDPProject) · 🌐 [Live demo](https://trees-diego-elections-aquarium.trycloudflare.com/) · ☁️ Deployed on Oracle Cloud
 
 ---
 
