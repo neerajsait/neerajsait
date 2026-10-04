@@ -56,13 +56,13 @@ I'm currently looking for a **full-time fresher / graduate role in backend devel
 
 **Postman · JUnit · Maven · GitHub Actions · JSP · Bootstrap · Nginx · Linux**
 
-**Certification:** AWS Certified Cloud Practitioner (CLF-C02)
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20" width="100%" alt=""/>
 
 ## 🛠️ What I Built
 
 ### 🔐 ZK-Vault — Private Data Vault
+
+**Built with:** `Python` `Flask` `MySQL` `Redis` `AES-GCM` `Argon2id`
 
 **The idea:**
 What if the server could store your data without being able to read it?
@@ -98,6 +98,8 @@ Encryption alone doesn't make a system zero-knowledge. The important part is dec
 
 ### 💼 RecruiterService — Recruitment Management System
 
+**Built with:** `Java` `Spring Boot` `Hibernate / JPA` `MySQL` `JSP` `JavaMail`
+
 **The idea:**
 A recruitment system that gives recruiters a structured way to manage jobs and applicants instead of relying on scattered spreadsheets and messages.
 
@@ -130,6 +132,8 @@ How to structure a Java backend into **controllers, services and repositories**,
 ---
 
 ### 🍱 Food Ordering Platform — Suggula's Kitchen
+
+**Built with:** `React` `Vite` `Flask` `MySQL` `Netlify` `Supabase`
 
 **The idea:**
 A real food-ordering application built for a food business, connecting customers, administration, kitchen and outlet workflows.
@@ -167,6 +171,8 @@ A real application is more than an API or a UI. The difficult part is connecting
 ---
 
 ### 📡 Network Monitor — Network Visibility Dashboard
+
+**Built with:** `HTML` `CSS` `JavaScript`
 
 **The idea:**
 A web-based interface for displaying network information and making network activity easier to understand than raw terminal output.
@@ -209,6 +215,15 @@ Areas I've explored include:
 Thinking about how an application can fail makes me more careful about how I design backend code.
 
 🔗 [Cybersecurity Projects](https://github.com/neerajsait/cybersecurity-projects)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20" width="100%" alt=""/>
+
+## 🏆 Certifications
+
+* ☁️ **AWS Certified Cloud Practitioner (CLF-C02)**
+* 🔐 **Cybersecurity Virtual Internship — Palo Alto Networks**
+* 📮 **Postman API Fundamentals**
+* 🤖 **Automation Anywhere Certified Essentials RPA Professional**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20" width="100%" alt=""/>
 
