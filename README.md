@@ -48,7 +48,7 @@ I've deployed my projects on **Oracle Cloud**, and I'm currently looking for a *
 | 🗄️ | **MySQL  · Redis**            | Relational data, application persistence and temporary state                       |
 |  ⚛️ | **React · JavaScript · HTML · CSS**       | Food-ordering interface and Network Monitor dashboard                              |
 |  🐳 | **Docker · Linux · Git · GitHub Actions** | Containerizing RecruiterService, CI builds and project workflows                   |
-|  ☁️ | **Oracle Cloud · AWS    **              | Oracle Cloud deployment of RecruiterService and the food platform; AWS/    fundamentals |
+|  ☁️ | **Oracle Cloud · AWS    **              | Oracle Cloud deployment of RecruiterService and the food platform; AWS fundamentals |
 
 ### Other tools I work with
 
@@ -128,6 +128,7 @@ flowchart LR
 
 * ☁️ **AWS Certified Cloud Practitioner (CLF-C02)**
 * 📮 **Postman API Fundamentals**
+* 📊 **Cisco Data Analytics Essentials**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20" width="100%" alt=""/>
 
@@ -145,7 +146,7 @@ flowchart LR
 
 I don't want to stop at **"it works."** I try to understand **why it works, how it can fail, and what happens when someone sends something I didn't expect**.
 
-* **Build first, then break it.** I write the feature, then attack it myself: bad input, wrong user, broken session, missing token.
+* **Build first, then harden it.** I write the feature, then review it defensively: bad input, wrong user, broken session, missing token. I threat-model my own endpoints before calling them done.
 * **Keep decisions on the server.** Validation, permissions and business rules never depend on what the client says.
 * **Small layers, clear responsibilities.** Controllers handle requests, services hold the logic, repositories talk to the database.
 * **Learn by doing.** I pick up a concept, put it into a project, and write down what went wrong.
@@ -153,7 +154,7 @@ I don't want to stop at **"it works."** I try to understand **why it works, how 
 
 **Beyond the main projects:**
 
-* 🛡️ **[Cybersecurity Projects](https://github.com/neerajsait/cybersecurity-projects)** — deliberately vulnerable examples I attack in a controlled setup, then fix. They cover authentication bypass, injection, session handling and input validation.
+* 🛡️ **[Cybersecurity Projects](https://github.com/neerajsait/cybersecurity-projects)** — an index of my security work: a zero-knowledge encrypted vault, a network intrusion detection system, and supporting experiments. Each one documents its threat model and hardening decisions.
 * 📡 **[Network Monitor](https://github.com/neerajsait/Network-Monitor)** — a browser dashboard (HTML, CSS, JavaScript) that makes network activity easier to read than raw terminal output.
 
 That mindset is why I'm drawn to the overlap between **backend development and cybersecurity**.
